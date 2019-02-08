@@ -42,7 +42,7 @@ The Volunteers will be part of the workshop and assist with any issues from set 
 
 ## About The Venue: 
 
-The <a href = https://www.indiahabitat.org/>India Habitat Centre (IHC)</a>is a multipurpose Learning Institution, one of India’s most comprehensive convention centres. Spread over an area of nine acres, the IHC campus has been designed to create an island of architectural excellence in the busy metropolis of India’s capital, New Delhi. Representative of “ecology by design, the IHC remains one of India's most successful works of urban design. A city within a city, the IHC is a hub of activity while simultaneously being serene, weaving a unique interplay of institutions, supporting infrastructure and facilities such as conference venues, auditoria, hospitality areas, the library and resource centre, and art galleries. It is an intellectual shopping centre that provides free exhibitions, great theatre, cutting edge art and wonderful outdoor spaces that are comfortable in all seasons. 
+The <a href = https://www.indiahabitat.org/>India Habitat Centre (IHC)</a> is a multipurpose Learning Institution, one of India’s most comprehensive convention centres. Spread over an area of nine acres, the IHC campus has been designed to create an island of architectural excellence in the busy metropolis of India’s capital, New Delhi. Representative of “ecology by design, the IHC remains one of India's most successful works of urban design. A city within a city, the IHC is a hub of activity while simultaneously being serene, weaving a unique interplay of institutions, supporting infrastructure and facilities such as conference venues, auditoria, hospitality areas, the library and resource centre, and art galleries. It is an intellectual shopping centre that provides free exhibitions, great theatre, cutting edge art and wonderful outdoor spaces that are comfortable in all seasons. 
 
   
 ## Optional Events
@@ -61,7 +61,7 @@ More Information Here
 ### 26th Feb, 5pm
 Cultural Evening: Kabir & Other Mystics (Shabnam Virmani) | NIPGR | Dinner included 
 
-<a href= http://www.kabirproject.org/about%20us>Shabnam Virmani </a> is a filmmaker, singer and artist in residence at the Srishti Institute of Art, Design and Technology, Bangalore. She plays a 5-stringed tambura herself and will sing a unique repertoire of folk songs of Kabir and other mystic poets from 15th century India, with English translations for academicians, at the interface of Kabir and Buddhism. More Information <a>Here</a>.
+<a href= http://www.kabirproject.org/about%20us>Shabnam Virmani </a> is a filmmaker, singer and artist in residence at the Srishti Institute of Art, Design and Technology, Bangalore. She plays a 5-stringed tambura herself and will sing a unique repertoire of folk songs of Kabir and other mystic poets from 15th century India, with English translations for academicians, at the interface of Kabir and Buddhism. More Information <a href=/Images/Shabnamposter.pdf>Here</a>.
 
 <b>Registrations for this event are now closed</b>
 
