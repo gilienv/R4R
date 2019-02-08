@@ -1,6 +1,9 @@
 ## R4R
 <b>This Repository contains the complete course material for the First TIGR2ESS FP2/FP3 Workshop R4R: "Workshop on R for Genomics and Data Mining"</b>
 
+<img src = /images/R4R_header.png>
+
+
 ## Workshop Content
 <b>R4R</b> is scheduled to be held at the India Habitat Centre (IHC) New Delhi, from Feb 24, 2019 to March 01, 2019. This is a six day long workshop with lectures, Hands-on modules and exercises for use of 'R' in biological data analysis and advanced crop genomics. We will also explore techniques for data mining and analysis of scientific literature using <a href=http://contentmine.org/>ContentMine</a> Software. The workshop is expected to be very data intensive and delegates are required to fully attend all days.
 
