@@ -8,7 +8,17 @@
 Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Schedule_NIPGR.pdf>here</a>
 
 ## Course Pages
-here
+<a href=/Documents/Day01.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+
+<a href=/Documents/Day02.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+
+<a href=/Documents/Day03.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+
+<a href=/Documents/Day04.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+
+<a href=/Documents/Day05.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+
+<a href=/Documents/Day06.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
 
 ## Instructors
 
