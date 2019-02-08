@@ -12,7 +12,7 @@ here
 
 ## Instructors
 
-<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR>/a>
+<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR></a>
 
 <a href=https://www.cruk.cam.ac.uk/author/ashley-sawle>Dr Ashley Sawle | Cancer Research UK</a>
 
@@ -61,7 +61,7 @@ More Information Here
 ### 26th Feb, 5pm
 Cultural Evening: Kabir & Other Mystics (Shabnam Virmani) | NIPGR | Dinner included 
 
-More Information Here
+<a href= http://www.kabirproject.org/about%20us>Shabnam Virmani </a> is a filmmaker, singer and artist in residence at the Srishti Institute of Art, Design and Technology, Bangalore. She plays a 5-stringed tambura herself and will sing a unique repertoire of folk songs of Kabir and other mystic poets from 15th century India, with English translations for academicians, at the interface of Kabir and Buddhism. More Information <a>Here</a>.
 
 <b>Registrations for this event are now closed</b>
 
