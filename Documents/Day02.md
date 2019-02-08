@@ -1,7 +1,7 @@
 
 <img src = /Images/R4R_header.png>
 
-## Day 02: Introduction to R and R Studio
+## Day 02: Biological Data Analysis Using R
 ### Time: 9am to 6pm
 ### Venue: Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New Delhi</a>
 
