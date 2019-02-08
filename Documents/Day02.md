@@ -1,5 +1,5 @@
 
-##General Information
+## General Information
 
 <p>
   <a href="http://datacarpentry.org">Data Carpentry</a>
