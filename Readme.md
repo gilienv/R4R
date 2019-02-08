@@ -7,6 +7,9 @@
 ## Program Schedule
 Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Schedule_NIPGR.pdf>here</a>
 
+## Course Pages
+here
+
 ## Instructors
 
 <a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR>/a>
@@ -20,7 +23,16 @@ Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Sched
 <a href= https://www.shuttleworthfoundation.org/fellows/pmr/>Dr Peter Murray Rust | ContentMine</a>
 
 ## Helpers and Volunteers
+We are grateful to our very enthusiastic Delhi Science student community who have graciously stepped forward to help us as Volunteers on this workshop!
 
+Mr. Amit Yadav, NIPGR
+Mr. Ambarish Kumar, NIPGR
+Ms. Vinita Mehlawat, NIPGR
+Mr. Nagendra Singh, NIPGR
+Mr. Priyesh Agarwal, NII
+Ms. Saumya Priyadarshini, JNU
+
+The Volunteers will be part of the workshop and assist with any issues from set up and installation to data checks and course exercises. Please feel free to request them for any support you may wish to have.
 
 
 ## About The Venue: <a href = https://www.indiahabitat.org/>IHC New Delhi</a>
