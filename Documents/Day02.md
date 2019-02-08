@@ -11,6 +11,10 @@
 
 Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New Delhi</a>
 
+## Instructors: 
+
+
+
 ## General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
