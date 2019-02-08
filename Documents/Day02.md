@@ -1,4 +1,10 @@
 
+<img src = /Images/R4R_header.png>
+
+## Day 02: Introduction to R and R Studio
+### Time: 9am to 6pm
+### Venue: Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New Delhi</a>
+
 ## General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
