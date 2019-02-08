@@ -23,14 +23,19 @@ here
 <a href= https://www.shuttleworthfoundation.org/fellows/pmr/>Dr Peter Murray Rust | ContentMine</a>
 
 ## Helpers and Volunteers
-We are grateful to our very enthusiastic Delhi Science student community who have graciously stepped forward to help us as Volunteers on this workshop!
+We are grateful to our very enthusiastic Delhi Science student community who have graciously stepped forward to help us as Volunteers on this workshop! 
 
 Mr. Amit Yadav, NIPGR
-Mr. Ambarish Kumar, NIPGR
-Ms. Vinita Mehlawat, NIPGR
-Mr. Nagendra Singh, NIPGR
-Mr. Priyesh Agarwal, NII
-Ms. Saumya Priyadarshini, JNU
+
+Mr. Ambarish Kumar, NIPGR 
+
+Ms. Vinita Mehlawat, NIPGR 
+
+Mr. Nagendra Singh, NIPGR 
+
+Mr. Priyesh Agarwal, NII 
+
+Ms. Saumya Priyadarshini, JNU 
 
 The Volunteers will be part of the workshop and assist with any issues from set up and installation to data checks and course exercises. Please feel free to request them for any support you may wish to have.
 
