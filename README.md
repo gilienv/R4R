@@ -3,7 +3,7 @@
 
 <b>R4R</b> is scheduled to be held at the India Habitat Centre (IHC) New Delhi, from Feb 24, 2019 to March 01, 2019. This is a six day long workshop with lectures, Hands-on modules and exercises for use of 'R' in biological data analysis and advanced crop genomics. We will also explore techniques for data mining and analysis of scientific literature using ContentMine Software. The workshop is expected to be very data intensive and delegates are required to fully attend all days.
 
-The Full Program of the Workshop can be found <a href=R4R/IHC_R_workshop_Program_Schedule_NIPGR.pdf>here</a>
+The Full Program of the Workshop can be found <a href=IHC_R_workshop_Program_Schedule_NIPGR.pdf>here</a>
 
 <b>Instructors</b>
 
