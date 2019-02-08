@@ -3,9 +3,9 @@
 
 ## Day 02: Biological Data Analysis Using R
 
-## Time: 
+## Time & Date: 
 
-9am to 6pm
+9am to 6pm on Feb 25, 2019
 
 ## Venue: 
 
@@ -27,14 +27,6 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
     You don't need to have any previous knowledge of the tools that will be presented at the workshop.
   </strong>
 </p>
-
-<p id="where">
-  <strong>Where:</strong>
-  IHC New Delhi 
-
-<p id="when">
-  <strong>When:</strong>
-  Feb 25, 2019.
 
 <p id="requirements">
   <strong>Requirements:</strong> 
