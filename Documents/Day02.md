@@ -65,7 +65,7 @@ Participants are also required to abide by Data Carpentry's
 </p>
 
 <h2>Course Overview</h2>
-<img src=/Images/Day02.png" alt="overview" width="800" />
+<img src=/Images/Day02.png alt=overview width=800 />
 
 <h2 id="schedule">Schedule</h2>
 <a href="https://bioinformatics-core-shared-training.github.io/2019-01-15-CRUK-Cambridge-DCinR//timetable">Timetable</a>.  
