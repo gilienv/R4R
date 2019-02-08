@@ -22,7 +22,7 @@ Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Sched
 
 ## Instructors
 
-<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR></a>
+<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR</a>
 
 <a href=https://www.cruk.cam.ac.uk/author/ashley-sawle>Dr Ashley Sawle | Cancer Research UK</a>
 
