@@ -1,5 +1,5 @@
 ## R4R
-<b>The First <a href=https://tigr2ess.globalfood.cam.ac.uk/> TIGR2ESS</a> FP2/FP3 Workshop <b>R4R</b>: "Workshop on R for Genomics and Data Mining"</b>
+<b><centre>The First <a href=https://tigr2ess.globalfood.cam.ac.uk/> TIGR2ESS</a> FP2/FP3 Workshop <b>R4R</b>: "Workshop on R for Genomics and Data Mining"</b></centre>
 
 <img src = /Images/R4R_header.png>
 
