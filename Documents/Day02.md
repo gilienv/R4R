@@ -13,7 +13,9 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
 
 ## Instructors: 
 
+<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR></a>
 
+<a href=https://www.cruk.cam.ac.uk/author/ashley-sawle>Dr Ashley Sawle | Cancer Research UK</a>
 
 ## General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
