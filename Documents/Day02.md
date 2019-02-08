@@ -67,10 +67,9 @@ Participants are also required to abide by Data Carpentry's
 
 <img src=/Images/Day02.png alt=overview width=800 />
 
-<h4>Data organization in spreadsheets ( )</h4>
+## BEFORE WE START
 
-<p>
-  <h2>Data files for the lesson are available 
+Data files for the lesson are available 
 	  <a href="https://ndownloader.figshare.com/files/2252083">here</a>.</h2>
 </p>
 
@@ -83,23 +82,6 @@ Participants are also required to abide by Data Carpentry's
   <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a> (10 mins)</li>
 </ol>
 
-<h4>Data cleaning with OpenRefine ( )</h4>
-
-<p>
-  <h2>Data files for the lesson are available 
-	  <a href="https://ndownloader.figshare.com/files/7823341">here</a></h2>.
-</p>
-
-<ol>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/">Introduction</a> (10 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/">Basics of OpenRefine</a> (35 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/">Filtering and sorting</a> (20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/">Examining numeric data</a> (20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/">Generating scripts</a> (15 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/">Exporting data</a> (15 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/">Other resources</a> (10 mins)</li>  
-</ol>
-
 <h4>Data analysis with R ( )</h4>
 
 <ol>
@@ -109,26 +91,6 @@ Participants are also required to abide by Data Carpentry's
 </ol>
 
 <a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1 ( mins)</a>
-
-
-<h3>Day 2</h3>
-
-
-<h4>Data analysis with R</h4>
-
-<ol>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> ( mins)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> ( mins)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> ( mins)</li>
-</ol>
-
-<p>
-  <h2>CSV data files for the final part of Database lesson are available from  
-	  <a href="https://github.com/datacarpentry/ecology-workshop/blob/master/data.md">here</a></h2>.
-</p>
-
-Learn more about SQL from the 
-<a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
 
 <p><b> Should you finish earlier than others and want some more challenges please have a go.  
  at this material from the R Software Carpentry course (They could also be done    
@@ -144,9 +106,6 @@ Learn more about SQL from the
 	<li><a href="https://github.com/gadenbuie/tidyexplain">Animations of joins, spread &amp; gather</a></li>
 </ol>
 </p>
-
-
-
 
 <hr />
 
