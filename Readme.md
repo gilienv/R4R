@@ -10,15 +10,15 @@ Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Sched
 ## Course Pages
 <a href=/Documents/Day01.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
 
-<a href=/Documents/Day02.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+<a href=/Documents/Day02.md> Day 02 </a> : Introduction to R and RStudio
 
-<a href=/Documents/Day03.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+<a href=/Documents/Day03.md> Day 03 </a> : Data Manipulation and Graphics in R
 
-<a href=/Documents/Day04.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+<a href=/Documents/Day04.md> Day 04 </a> : Practical Genomics Analysis
 
-<a href=/Documents/Day05.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+<a href=/Documents/Day05.md> Day 05 </a> : Crop Genetics and Marker Development
 
-<a href=/Documents/Day06.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+<a href=/Documents/Day06.md> Day 06 </a> : Text and Data Mining using Contentmine Software
 
 ## Instructors
 
