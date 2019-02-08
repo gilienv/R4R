@@ -2,8 +2,14 @@
 <img src = /Images/R4R_header.png>
 
 ## Day 02: Biological Data Analysis Using R
-### Time: 9am to 6pm
-### Venue: Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New Delhi</a>
+
+## Time: 
+
+9am to 6pm
+
+## Venue: 
+
+Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New Delhi</a>
 
 ## General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
@@ -58,14 +64,7 @@ Participants are also required to abide by Data Carpentry's
 <p id="contact">
   <strong>Contact</strong>:
   Please email
-  
-    
-      
-        
-      
       <a href="mailto:gy@nipgr.ac.in">gy@nipgr.ac.in</a>
-    
-  
   for more information.
 </p>
 
