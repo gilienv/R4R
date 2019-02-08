@@ -40,9 +40,9 @@ Ms. Saumya Priyadarshini, JNU
 The Volunteers will be part of the workshop and assist with any issues from set up and installation to data checks and course exercises. Please feel free to request them for any support you may wish to have.
 
 
-## About The Venue: <a href = https://www.indiahabitat.org/>IHC New Delhi</a>
+## About The Venue: 
 
-The India Habitat Centre (IHC) is a multipurpose Learning Institution, one of India’s most comprehensive convention centres. Spread over an area of nine acres, the IHC campus has been designed to create an island of architectural excellence in the busy metropolis of India’s capital, New Delhi. Representative of “ecology by design, the IHC remains one of India's most successful works of urban design. A city within a city, the IHC is a hub of activity while simultaneously being serene, weaving a unique interplay of institutions, supporting infrastructure and facilities such as conference venues, auditoria, hospitality areas, the library and resource centre, and art galleries. It is an intellectual shopping centre that provides free exhibitions, great theatre, cutting edge art and wonderful outdoor spaces that are comfortable in all seasons. 
+The <a href = https://www.indiahabitat.org/>India Habitat Centre (IHC)</a>is a multipurpose Learning Institution, one of India’s most comprehensive convention centres. Spread over an area of nine acres, the IHC campus has been designed to create an island of architectural excellence in the busy metropolis of India’s capital, New Delhi. Representative of “ecology by design, the IHC remains one of India's most successful works of urban design. A city within a city, the IHC is a hub of activity while simultaneously being serene, weaving a unique interplay of institutions, supporting infrastructure and facilities such as conference venues, auditoria, hospitality areas, the library and resource centre, and art galleries. It is an intellectual shopping centre that provides free exhibitions, great theatre, cutting edge art and wonderful outdoor spaces that are comfortable in all seasons. 
 
   
 ## Optional Events
