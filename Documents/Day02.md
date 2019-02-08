@@ -1,67 +1,38 @@
 
 ## General Information
-
-<p>
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
   and no prior computational experience is required. 
-  This hands-on workshop teaches basic concepts, 
-  skills and tools for working more effectively with data.
-  We will cover Data organization in spreadsheets, 
-  data cleaning with OpenRefine, 
-  and learn how to use the statistical program R.
-  If time allows we will also talk about Interacting with databases from R. 
-  Participants will be encouraged to help one another
-  and to apply what they have learned to their own research problems.
-</p>
-<p align="center">
-  <em>
-    For more information on what we teach and why,
-    please see our paper
-    "<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">Best Practices for Scientific Computing</a>".
-  </em>
-</p>
+  This hands-on workshop module is a slight modification of the Data Carpentry Course at CRUK, University of Cambridge, and we hope to teache basic concepts, skills and tools for working more effectively with data.
+  We will cover Data organization in spreadsheets, and learn how to use the statistical program R.
+  
+  Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
 <p id="who">
   <strong>Who:</strong>
   The course is aimed at graduate students and other researchers.
   <strong>
-    You don't need to have any previous knowledge of the tools
-    that will be presented at the workshop.
+    You don't need to have any previous knowledge of the tools that will be presented at the workshop.
   </strong>
 </p>
 
 <p id="where">
   <strong>Where:</strong>
-  E-Learning3, Level 2, School of Clinical Medicine, Cambridge Biomedical Campus, Cambridge CB2 0SP.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat=52.186900&amp;mlon=0.137400&amp;zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q=52.186900,0.137400">Google Maps</a>.
-</p>
+  IHC New Delhi 
 
 <p id="when">
   <strong>When:</strong>
-  Jan 15-16, 2019.
-  <a href="//calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Data Carpentry Workshop&amp;dates=20190115/20190116&amp;trp=false&amp;sprop&amp;sprop=name:&amp;sf=true&amp;output=xml&amp;location=E-Learning3, Level 2, School of Clinical Medicine, Cambridge Biomedical Campus, Cambridge CB2 0SP&amp;details=Data Carpentry Workshop at School of Clinical Medicine">Add to your Google Calendar.</a>
-
-</p>
+  Feb 25, 2019.
 
 <p id="requirements">
   <strong>Requirements:</strong> 
-  We will be using pre-configured computers in the Schools E-Learning Suite.
- Participants can bring their own laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
-  that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>) or by using Docker and relevant containers <a href="Installing_Dockerised_learning_environment.pdf">see here</a>.
-This can also be done after the course to re-engage with the materials.
+ Participants will bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
+  that they have administrative privileges on. They should have a few specific software packages installed (listed
+  <a href="#setup">below</a>). This can also be done after the course to re-engage with the materials.
 	
-They are also required to abide by
+Participants are also required to abide by Data Carpentry's
   
-  Data Carpentry's
-  
-  <a href="https://software-carpentry.org/conduct.html">Code of Conduct</a>.
+<a href="https://software-carpentry.org/conduct.html">Code of Conduct</a>.
 </p>
 
 <p id="accessibility">
@@ -86,34 +57,10 @@ They are also required to abide by
       
         
       
-      <a href="mailto:mark.fernandes@cruk.cam.ac.uk">mark.fernandes@cruk.cam.ac.uk</a>
+      <a href="mailto:gy@nipgr.ac.in">gy@nipgr.ac.in</a>
     
   
   for more information.
-</p>
-
-<hr />
-
-
-
-
-
-<p><em>Surveys</em></p>
-
-  <p><b>Please be sure to complete this survey after the workshop:</b> 
-  <a href="https://www.surveymonkey.co.uk/r/DataCRJan19">Cambridge training survey</a></p>
-
-  <p>We would also appreciate if you filled in these surveys for the Data Carpentry community:</p>
-  <p><a href="https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=2019-01-15-CRUK-Cambridge-DCinR">Data carpentry pre-workshop Survey</a></p>
-  <p><a href="https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id=2019-01-15-CRUK-Cambridge-DCinR">Data carpentry post-workshop Survey</a></p>
-
-
-<hr />
-
-
-
-<p id="collaborative_notes">
-  We will use this <a href="https://pad.carpentries.org/2019-01-15-CRUK-Cambridge">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 <h2>Course Overview</h2>
