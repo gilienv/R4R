@@ -70,8 +70,7 @@ Participants are also required to abide by Data Carpentry's
 ## BEFORE WE START
 
 Data files for the lesson are available 
-	  <a href="https://ndownloader.figshare.com/files/2252083">here</a>.</h2>
-</p>
+	  <a href="https://ndownloader.figshare.com/files/2252083">here</a>
 
 <ol>
   <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a> (18 mins)</li>
@@ -82,7 +81,7 @@ Data files for the lesson are available
   <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a> (10 mins)</li>
 </ol>
 
-<h4>Data analysis with R ( )</h4>
+## Data analysis with R ( )
 
 <ol>
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a> ( mins)</li>
@@ -90,7 +89,7 @@ Data files for the lesson are available
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a> ( mins)</li>
 </ol>
 
-<hr />
+<hr>
 
 
 
@@ -103,16 +102,11 @@ Data files for the lesson are available
   that may be useful on the
   <a href="https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 
-## R
+## R <a href="http://www.r-project.org">R</a> is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. To interact with R, we use <a href="http://www.rstudio.com/">RStudio</a>
 
-    <a href="http://www.r-project.org">R</a> is a programming language
-    that is especially powerful for data exploration, visualization, and
-    statistical analysis. To interact with R, we use
-    <a href="http://www.rstudio.com/">RStudio</a>.
-
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="r-windows">Windows</h4>
+  
+     ## Windows
+     
       <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
       <p>
         Install R by downloading and running
