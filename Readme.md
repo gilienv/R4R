@@ -1,7 +1,7 @@
 ## R4R
 <b>This Repository contains the complete course material for the First TIGR2ESS FP2/FP3 Workshop R4R: "Workshop on R for Genomics and Data Mining"</b>
 
-<img src = /images/R4R_header.png>
+<img src = /Images/R4R_header.png>
 
 
 ## Workshop Content
