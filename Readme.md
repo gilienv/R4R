@@ -1,5 +1,5 @@
 ## R4R
-<b>This Repository contains the complete course material for the First TIGR2ESS FP2/FP3 Workshop R4R: "Workshop on R for Genomics and Data Mining"</b>
+<b>The First <a href=https://tigr2ess.globalfood.cam.ac.uk/> TIGR2ESS</a> FP2/FP3 Workshop <b>R4R</b>: "Workshop on R for Genomics and Data Mining"</b>
 
 <img src = /Images/R4R_header.png>
 
