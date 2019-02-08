@@ -38,11 +38,9 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
   <strong>Requirements:</strong> 
  Participants will bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
   that they have administrative privileges on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). This can also be done after the course to re-engage with the materials.
-	
+  <a href="#setup">below</a>). This can also be done after the course to re-engage with the materials. 
 Participants are also required to abide by Data Carpentry's
-  
-<a href="https://software-carpentry.org/conduct.html">Code of Conduct</a>.
+<a href="https://software-carpentry.org/blog/2012/12/code-of-conduct.html">Code of Conduct</a>.
 </p>
 
 <p id="accessibility">
