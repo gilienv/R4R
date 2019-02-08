@@ -61,9 +61,9 @@ More Information Here
 ### 26th Feb, 5pm
 Cultural Evening: Kabir & Other Mystics (Shabnam Virmani) | NIPGR | Dinner included 
 
-<a href= http://www.kabirproject.org/about%20us>Shabnam Virmani </a> is a filmmaker, singer and artist in residence at the Srishti Institute of Art, Design and Technology, Bangalore. She plays a 5-stringed tambura herself and will sing a unique repertoire of folk songs of Kabir and other mystic poets from 15th century India, with English translations for academicians, at the interface of Kabir and Buddhism. More Information <a href=/Images/Shabnamposter.pdf>Here</a>.
+<a href= http://www.kabirproject.org/about%20us>Shabnam Virmani </a> is a filmmaker, singer and artist in residence at the Srishti Institute of Art, Design and Technology, Bangalore. She plays a 5-stringed tambura herself and will sing a unique repertoire of folk songs of Kabir and other mystic poets from 15th century India, with English translations for academicians, at the interface of Kabir and Buddhism. 
 
-<b>Registrations for this event are now closed</b>
+More Information <a href=/Images/Shabnamposter.pdf>Here</a>.
 
 ## Date: 
 Sunday, 24 February, 2019 - 17:00 to Friday, 1 March, 2019 - 17:30
