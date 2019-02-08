@@ -6,6 +6,7 @@
 ### Venue: Board Room, <a href = http://www.nipgr.ac.in/home/home.php>NIPGR</a>
 
 ### Agenda: 
+Registration for the Workshop will begin this evening. All delegates will get their Workshop Kits at the Launch event.
 
 We hope that delegates will use this evening for ice breaking and meeting each other. The evening will begin with Tea and Refreshments and end with Dinner.
 
