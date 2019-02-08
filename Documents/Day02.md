@@ -94,33 +94,21 @@ Data files for the lesson are available
 
 
 
-<h2 id="setup">Setup</h2>
+## Setup
 
-<p>
-  To participate in a
-  
-  Data Carpentry
-  
-  workshop,
-  you will need access to the software described below.
+  To participate in a Data Carpentry workshop, you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
-</p>
-<p>
+
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href="https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
 
+## R
 
-<div id="r"> 
-  <h3>R</h3>
-
-  <p>
     <a href="http://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
     <a href="http://www.rstudio.com/">RStudio</a>.
-  </p>
 
   <div class="row">
     <div class="col-md-4">
@@ -162,83 +150,3 @@ Data files for the lesson are available
     </div>
   </div>
 </div> 
-
-<div id="sql"> 
-  <h3>SQLite</h3>
-
-  <p>
-    SQL is a specialized programming language used with databases.  We
-    use a simple database manager called
-    <a href="http://www.sqlite.org/">SQLite</a> in our lessons.
-  </p>
-
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="sql-windows">Windows</h4>
-      <p>
-        The <a href="https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe">
-          
-          Data Carpentry
-          
-          Windows Installer
-	</a>
-        installs SQLite for Windows.
-        If you used the installer to configure nano, you don't need to run it again.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="sql-macosx">macOS</h4>
-      <p>
-        SQLite comes pre-installed on macOS.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="sql-linux">Linux</h4>
-      <p>
-        SQLite comes pre-installed on Linux.
-      </p>
-    </div>
-  </div>
-
-  <p><strong>If you installed Anaconda, it also has a copy of SQLite
-    <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
-    Instructors will provide a workaround for it if needed.</strong></p>
-</div> 
-
-</p></p>
-
-      
-<footer>
-  <div class="row">
-    <div class="col-md-6" align="left">
-      <h4>
-	Copyright &copy; 2016
-	
-	<a href="https://software-carpentry.org">Software Carpentry Foundation</a>
-	
-      </h4>
-    </div>
-    <div class="col-md-6" align="right">
-      <h4>
-	<a href="mailto:lessons@software-carpentry.org">Contact</a>
-      </h4>
-    </div>
-  </div>
-</footer>
-
-    </div>
-    
-<script src="./assets/js/jquery.min.js"></script>
-<script src="./assets/js/bootstrap.min.js"></script>
-<script src="./assets/js/lesson.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-37305346-2', 'auto');
-  ga('send', 'pageview');
-</script>
-
-  </body>
-</html>
