@@ -16,7 +16,7 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
 
 <a href=https://www.cruk.cam.ac.uk/author/ashley-sawle>Dr Ashley Sawle | Cancer Research UK</a>
 
-### General Information
+#### General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
   and no prior computational experience is required. 
@@ -63,7 +63,7 @@ Participants are also required to abide by Data Carpentry's
   for more information.
 </p>
 
-## Schedule
+### Schedule
 
 <img src=/Images/Day02.png alt=overview width=800 />
 
