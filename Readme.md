@@ -8,7 +8,7 @@
 Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Schedule_NIPGR.pdf>here</a>
 
 ## Course Pages
-<a href=/Documents/Day01.md> Day 01 </a> : Evening Meet & Greet. Benquet Dinner
+<a href=/Documents/Day01.md> Day 01 </a> : Evening Meet & Greet. Dinner
 
 <a href=/Documents/Day02.md> Day 02 </a> : Introduction to R and RStudio
 
