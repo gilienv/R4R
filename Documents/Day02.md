@@ -1,23 +1,22 @@
 
 <img src = /Images/R4R_header.png>
 
-## Day 02: Biological Data Analysis Using R
+### Day 02: Biological Data Analysis Using R
 
-## Time & Date: 
+### Time & Date: 
 
 9am to 6pm on Feb 25, 2019
 
-## Venue: 
-
+### Venue: 
 Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New Delhi</a>
 
-## Instructors: 
+### Instructors: 
 
 <a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR</a>
 
 <a href=https://www.cruk.cam.ac.uk/author/ashley-sawle>Dr Ashley Sawle | Cancer Research UK</a>
 
-## General Information
+### General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
   and no prior computational experience is required. 
