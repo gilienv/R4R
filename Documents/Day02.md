@@ -102,7 +102,8 @@ Data files for the lesson are available
   that may be useful on the
   <a href="https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 
-## R <a href="http://www.r-project.org">R</a> is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. To interact with R, we use <a href="http://www.rstudio.com/">RStudio</a>
+## R 
+### <a href="http://www.r-project.org">R</a> is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. To interact with R, we use <a href="http://www.rstudio.com/">RStudio</a>
 
 ### Windows 
 <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
