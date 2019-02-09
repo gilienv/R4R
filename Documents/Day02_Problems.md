@@ -158,8 +158,7 @@ readability. Remember that abbreviations that make sense at the moment may not b
 that are excessively long. Including the units in the field names avoids confusion and enables others to readily interpret your fields.</p>
 
 ## Examples
-
-<table align="left" style="width =50%; border: 1px green;">
+<table bgcolor="red"  align="left" style="width =50%; border: 1px green;">
 <tr>
 	<td> <b>Good Name</b></td> <br />
 	<td> <b>Good Alternative </b> </td><br />
@@ -255,6 +254,7 @@ all the files and folders in a project.</p>
 - Avoid special characters in your data
 - Record metadata in a separate plain text file.
 
+## End of Lesson 
 
 | <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
   | ---- | ----|    
