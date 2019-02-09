@@ -113,13 +113,13 @@ variables, rows = observations, cells = data (values).</p>
  
  ## Exercise
 - We’re going to take a messy version of the survey data and describe how we would clean it up.
-- * Download the data by clicking <a href="https://ndownloader.figshare.com/files/2252083">here</a> to get it from FigShare.
-- * Open up the data in a spreadsheet program.</li>
-- * You can see that there are two tabs. Two field assistants conducted the surveys, one in 2013 and one in 2014, and they both kept track of the data in their own way. Now you’re the person in charge of this project and you want to be able to 
+	- Download the data by clicking <a href="https://ndownloader.figshare.com/files/2252083">here</a> to get it from FigShare.
+	- Open up the data in a spreadsheet program.</li>
+	- You can see that there are two tabs. Two field assistants conducted the surveys, one in 2013 and one in 2014, and they both kept track of the data in their own way. Now you’re the person in charge of this project and you want to be able to 
 start analyzing the data.</li>
-- * With the person next to you, identify what is wrong with this spreadsheet. Also discuss the steps you would need to take to clean up the 2013 and 2014 tabs, and to put them all together in one spreadsheet.
-- * Important:  Do not forget our first piece of advice: to create a new file (or tab) for the cleaned data, never modify your original (raw) data.
-- * After you go through this exercise, we’ll discuss as a group what was wrong with this data and how you would fix it.</p>
+	- With the person next to you, identify what is wrong with this spreadsheet. Also discuss the steps you would need to take to clean up the 2013 and 2014 tabs, and to put them all together in one spreadsheet.
+	- Important:  Do not forget our first piece of advice: to create a new file (or tab) for the cleaned data, never modify your original (raw) data.
+	- After you go through this exercise, we’ll discuss as a group what was wrong with this data and how you would fix it.</p>
 
 ## Solution
     <ul>
