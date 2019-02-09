@@ -37,21 +37,13 @@ for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding 
 
   * In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
 There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
-    <li>Let’s extract month, day and year from the dates to new columns. For this we 
-can use the built in Excel functions</li>
-  </ul>
+  * Let’s extract month, day and year from the dates to new columns. For this we  can use the built in Excel functions <code class="highlighter-rouge">YEAR()</code> <br><code class="highlighter-rouge">MONTH()</code>  <br />
+<code class="highlighter-rouge">DAY()</code>
+  * (Make sure the new column is formatted as a number and not as a date.)
+  * You can see that even though you wanted the year to be 2014, your spreadsheet program automatically interpreted it as 2015, the year you entered the data.</p>
 
-  <p><code class="highlighter-rouge">YEAR()</code>
-<code class="highlighter-rouge">MONTH()</code>  <br />
-<code class="highlighter-rouge">DAY()</code></p>
-
-  * (Make sure the new column is formatted as a number and not as a date.)</p>
-
-  * You can see that even though you wanted the year to be 2014, your spreadsheet program
-automatically interpreted it as 2015, the year you entered the data.</p>
-
-## Solution</h2>
-    <p class="output"><img src="../fig/solution_exercise_1_dates.png" alt="dates, exersize 1" /></p>
+## Solution
+ <img src="/Images/solution_exercise_1_dates.png" alt="dates, exersize 1" />
 
 ![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE2)
 
