@@ -39,7 +39,7 @@ previous lesson. Instructors: don’t go through this lesson except to refer to 
   <li><a href="#field_name">Using problematic field names</a></li>
   <li><a href="#special">Using special characters in data</a></li>
   <li><a href="#metadata">Inclusion of metadata in data table</a></li>
-  <li><a href="../03-dates-as-data/">Date formatting</a></li>
+  <li><a href="/Documents/Day02_Dates.md">Date formatting</a></li>
 </ul>
 
 <h2 id="-using-multiple-tables"><a name="tables"></a> Using multiple tables</h2>
