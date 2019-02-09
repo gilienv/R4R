@@ -157,9 +157,9 @@ with numbers.</p>
 readability. Remember that abbreviations that make sense at the moment may not be so obvious in 6 months, but don’t overdo it with names
 that are excessively long. Including the units in the field names avoids confusion and enables others to readily interpret your fields.</p>
 
-<p><strong>Examples</strong></p>
+## Examples
 
-<table align="left" style="width =50%; border: 1px solid black;">
+<table align="left" style="width =50%; border: 1px green;">
 <tr>
 	<td> <b>Good Name</b></td> <br />
 	<td> <b>Good Alternative </b> </td><br />
