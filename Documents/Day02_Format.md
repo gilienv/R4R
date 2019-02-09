@@ -109,42 +109,25 @@ variables, rows = observations, cells = data (values).</p>
 ## Discussion
 
 ```diff
-+ * If not already discussed, introduce the dataset that will be used in this
-lesson, and in the other ecology lessons, the <a href="http://www.datacarpentry.org/ecology-workshop/data/">Portal Project Teaching Dataset
++ * If not already discussed, introduce the dataset that will be used in this lesson, and in the other ecology lessons, the <a href="http://www.datacarpentry.org/ecology-workshop/data/">Portal Project Teaching Dataset
 + * The data used in the ecology lessons are observations of a small mammal community in southern Arizona. This is part of a project studying the effects of rodents and ants on the plant community that has been running for almost 40 years. The rodents are sampled on a series of 24 plots, with different experimental manipulations controlling which rodents are allowed to access which plots.
 + * This is a real dataset that has been used in over 100 publications. We’ve simplified it just a little bit for the workshop, but you can download the full dataset and work with it using exactly the same tools we’ll learn about today.
-- this text is highlighted in red
 ```
-  <p>If not already discussed, introduce the dataset that will be used in this
-lesson, and in the other ecology lessons, the <a href="http://www.datacarpentry.org/ecology-workshop/data/">Portal Project Teaching Dataset</a>.</p>
+ 
+ ## Exercise
+ ```diff
+- We’re going to take a messy version of the survey data and describe how we would clean it up.
 
-  <p>The data used in the ecology lessons are observations of a small mammal community in southern Arizona. This is part of a project studying the effects of rodents and ants on the plant community that has been running for almost 40 years. The rodents are sampled on a series of 24 plots, with different experimental manipulations controlling which rodents are allowed to access which plots.</p>
-
-  <p>This is a real dataset that has been used in over 100 publications. We’ve simplified it just a little bit for the workshop, but you can download the full dataset and work with it using exactly the same tools we’ll learn about today.</p>
-</blockquote>
-
-<blockquote class="challenge">
-  <h2 id="exercise">Exercise</h2>
-
-  <p>We’re going to take a messy version of the survey data and describe how we would clean it up.</p>
-
-  <ol>
-    <li>Download the data by clicking <a href="https://ndownloader.figshare.com/files/2252083">here</a> to get it from FigShare.</li>
-    <li>Open up the data in a spreadsheet program.</li>
-    <li>You can see that there are two tabs. Two field assistants conducted the surveys, one
-in 2013 and one in 2014, and they both kept track of the data in their own way. Now
-you’re the person in charge of this project and you want to be able to 
+- * Download the data by clicking <a href="https://ndownloader.figshare.com/files/2252083">here</a> to get it from FigShare.</li>
+- * Open up the data in a spreadsheet program.</li>
+- * You can see that there are two tabs. Two field assistants conducted the surveys, one in 2013 and one in 2014, and they both kept track of the data in their own way. Now you’re the person in charge of this project and you want to be able to 
 start analyzing the data.</li>
-    <li>With the person next to you, identify what is wrong with this spreadsheet. Also discuss the steps you would need to take to clean up the 2013 and 2014 tabs, and to put them all together in one spreadsheet.</li>
-  </ol>
+- * With the person next to you, identify what is wrong with this spreadsheet. Also discuss the steps you would need to take to clean up the 2013 and 2014 tabs, and to put them all together in one spreadsheet.
 
-  <p><strong>Important</strong> Do not forget our first piece of advice: to
-create a new file (or tab) for the cleaned data, never
-modify your original (raw) data.</p>
+- * Important:  Do not forget our first piece of advice: to create a new file (or tab) for the cleaned data, never modify your original (raw) data.
 
-  <p>After you go through this exercise, we’ll discuss as a group what was wrong
-with this data and how you would fix it.</p>
-
+- * After you go through this exercise, we’ll discuss as a group what was wrong with this data and how you would fix it.</p>
+```
   <blockquote class="solution">
     <h2 id="solution">Solution</h2>
     <ul>
