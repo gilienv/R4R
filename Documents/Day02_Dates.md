@@ -31,9 +31,9 @@ for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding 
 
 
 
-![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE)
+![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE1)
 
-  <p>Challenge: pulling month, day and year out of dates</p>
+  * Challenge: pulling month, day and year out of dates</p>
 
   <ul>
     <li>In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
@@ -46,9 +46,9 @@ can use the built in Excel functions</li>
 <code class="highlighter-rouge">MONTH()</code>  <br />
 <code class="highlighter-rouge">DAY()</code></p>
 
-  <p>(Make sure the new column is formatted as a number and not as a date.)</p>
+  * (Make sure the new column is formatted as a number and not as a date.)</p>
 
-  <p>You can see that even though you wanted the year to be 2014, your spreadsheet program
+  * You can see that even though you wanted the year to be 2014, your spreadsheet program
 automatically interpreted it as 2015, the year you entered the data.</p>
 
   <blockquote class="solution">
@@ -57,7 +57,7 @@ automatically interpreted it as 2015, the year you entered the data.</p>
   </blockquote>
 </blockquote>
 
-## Exercise
+![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE2)
 
   <p>Challenge: pulling hour, minute and second out of the current time</p>
 
