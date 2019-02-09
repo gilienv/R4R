@@ -108,11 +108,9 @@ variables, rows = observations, cells = data (values).</p>
 
 ## Discussion
 
-```diff
-+ * If not already discussed, introduce the dataset that will be used in this lesson, and in the other ecology lessons, the <a href="http://www.datacarpentry.org/ecology-workshop/data/">Portal Project Teaching Dataset
-+ * The data used in the ecology lessons are observations of a small mammal community in southern Arizona. This is part of a project studying the effects of rodents and ants on the plant community that has been running for almost 40 years. The rodents are sampled on a series of 24 plots, with different experimental manipulations controlling which rodents are allowed to access which plots.
-+ * This is a real dataset that has been used in over 100 publications. We’ve simplified it just a little bit for the workshop, but you can download the full dataset and work with it using exactly the same tools we’ll learn about today.
-```
+- If not already discussed, introduce the dataset that will be used in this lesson, and in the other ecology lessons, the <a href="http://www.datacarpentry.org/ecology-workshop/data/">Portal Project Teaching Dataset
+- The data used in the ecology lessons are observations of a small mammal community in southern Arizona. This is part of a project studying the effects of rodents and ants on the plant community that has been running for almost 40 years. The rodents are sampled on a series of 24 plots, with different experimental manipulations controlling which rodents are allowed to access which plots.
+- This is a real dataset that has been used in over 100 publications. We’ve simplified it just a little bit for the workshop, but you can download the full dataset and work with it using exactly the same tools we’ll learn about today.
  
  ## Exercise
  ```diff
