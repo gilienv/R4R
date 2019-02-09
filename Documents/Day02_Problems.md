@@ -52,7 +52,7 @@ which sees each row as an observation. You’re also potentially using the same
 field name in multiple places, which will make it harder to clean your data up
 into a usable form. The example below depicts the problem:</p>
 
-<p><img src="../fig/2_datasheet_example.jpg" alt="multiple tabs" /></p>
+<p><img src="/Images/2_datasheet_example.jpg" alt="multiple tabs" /></p>
 
 <p>In the example above, the computer will see (for example) row 4 and assume that all columns A-AF 
 refer to the same sample. This row actually represents four distinct samples 
@@ -110,17 +110,17 @@ analyze your data. It is essential to use a clearly defined and consistent null 
 Blanks (most applications) and NA (for R) are good choices. White et al, 2013, explain good choices for indicating null values for different software applications in their article:
 <a href="https://peerj.com/preprints/7/">Nine simple ways to make it easier to (re)use your data.</a> Ideas in Ecology and Evolution.</p>
 
-<p><img src="../fig/3_white_table_1.jpg" alt="White et al." /></p>
+<p><img src="/Images/3_white_table_1.jpg" alt="White et al." /></p>
 
 <h2 id="-using-formatting-to-convey-information"><a name="formatting"></a> Using formatting to convey information</h2>
 
 <p><strong>Example</strong>: highlighting cells, rows or columns that should be excluded from an analysis, leaving blank rows to indicate separations in data.</p>
 
-<p><img src="../fig/formatting.png" alt="formatting" /></p>
+<p><img src="/Images/formatting.png" alt="formatting" /></p>
 
 <p><strong>Solution</strong>: create a new field to encode which data should be excluded.</p>
 
-<p><img src="../fig/good_formatting.png" alt="good formatting" /></p>
+<p><img src="/Images/good_formatting.png" alt="good formatting" /></p>
 
 <h2 id="-using-formatting-to-make-the-data-sheet-look-pretty"><a name="formatting_pretty"></a> Using formatting to make the data sheet look pretty</h2>
 
@@ -242,8 +242,6 @@ all the files and folders in a project.</p>
 
 <p>(Text on metadata adapted from the online course Research Data <a href="http://datalib.edina.ac.uk/mantra">MANTRA</a> by EDINA and Data Library, University of Edinburgh. MANTRA is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.)</p>
 
-
-<blockquote class="keypoints">
   <h2>Key Points</h2>
   <ul>
     
@@ -279,96 +277,7 @@ all the files and folders in a project.</p>
     
     <li><p>Record metadata in a separate plain text file.</p>
 </li>
-    
-  </ul>
-</blockquote>
 
-</article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-xs-1">
-    <h3 class="text-left">
-      
-      <a href="../01-format-data/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">previous episode</span></a>
-      
-    </h3>
-  </div>
-  <div class="col-xs-10">
-    
-  </div>
-  <div class="col-xs-1">
-    <h3 class="text-right">
-      
-      <a href="../03-dates-as-data/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">next episode</span></a>
-      
-    </h3>
-  </div>
-</div>
-
-
-      
-      
-
-
-
-
-
-
-<footer>
-  <div class="row">
-    <div class="col-md-6 copyright" align="left">
-	
-	Licensed under <a href="">CC-BY 4.0</a> 2018–2019
-	by <a href="https://carpentries.org/">The Carpentries</a>
-        <br>
-        Licensed under <a href="">CC-BY 4.0</a> 2016–2018
-	by <a href="http://datacarpentry.org">Data Carpentry</a>
-	
-    </div>
-    <div class="col-md-6 help-links" align="right">
-	
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/edit/gh-pages/_episodes/02-common-mistakes.md">Edit on GitHub</a>
-	
-	/
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
-	/
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/">Source</a>
-	/
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/blob/gh-pages/CITATION">Cite</a>
-	/
-	<a href="mailto:team@carpentries.org">Contact</a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12" align="center">
-      Using <a href="https://github.com/carpentries/styles/">The Carpentries style</a>
-      version <a href="https://github.com/carpentries/styles/releases/tag/v9.5.3">9.5.3</a>.
-    </div>
-  </div>
-</footer>
-
-      
-
-
-## Key Points
-- Never modify your raw data. Always make a copy before making any changes.
-- Keep track of all of the steps you take to clean your data in a plain text file.
-- Organize your data according to tidy data principles.
 
 | <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
   | ---- | ----|    
