@@ -4,10 +4,13 @@
 ## Data Organization in Spreadsheets: Introduction
  
  
- | Tasks | Description |
+ | Main | Description |
 | --- | --- |
 | Teaching | 15 minutes |
 | Exercises | 3minues | 
+| Question| What are basic principles for using spreadsheets for good data organization? |
+| Objective | Describe best practices for organizing data so computers can make the best use of data sets |
+
 ### Overview 
 |----- | -----| 
 | *Teaching: * | 15 min | 
