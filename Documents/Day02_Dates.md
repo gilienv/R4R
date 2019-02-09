@@ -125,11 +125,10 @@ the quantities to the correct entities.</p>
 there are many ways that ambiguity creeps into your data depending on the format you chose when you enter your data, and if you’re not
 fully aware of which format you’re using, you can end up actually entering your data in a way that Excel will badly misinterpret.</p>
 
-<blockquote class="challenge">
-  <h2 id="exercise-2">Exercise</h2>
-  <p>What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?</p>
-  <blockquote class="solution">
-    <h2 id="solution-2">Solution</h2>
+![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE3)
+
+* What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?</p>
+## Solution
     <ul>
       <li>Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.</li>
       <li>Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>.</li>
@@ -138,8 +137,7 @@ fully aware of which format you’re using, you can end up actually entering you
       <li>Now right click on the file again and open with Excel. Notice that the dates display with the current year, not 2015. <br />
 As you can see, exporting data from Excel and then importing it back into Excel fundamentally changed the data!</li>
     </ul>
-  </blockquote>
-</blockquote>
+  
 
 <p><strong>Note</strong><br />
 You will notice that when exporting into a text-based format (such as CSV), Excel will export its internal date integer instead of a useful value (that is, the dates will be represented as integer numbers). This can potentially lead to problems if you use other software to manipulate the file.</p>
