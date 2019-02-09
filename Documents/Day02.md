@@ -73,12 +73,12 @@ Data files for the lesson are available
 	  <a href="https://ndownloader.figshare.com/files/2252083">here</a>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a> (18 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/">Formatting data</a> (35 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">Common formatting problems</a> (20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/">Dates as data</a> (13 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/">Quality control</a> (20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a> (10 mins)</li>
+  <li><a href=/Documents/Day02_Intro.md>Introduction</a> (18 mins)</li>
+  <li><a href="/Documents/Day02_Format.md>>Formatting data</a> (35 mins)</li>
+  <li><a href="/Documents/Day02_Problems.md>">Common formatting problems</a> (20 mins)</li>
+  <li><a href="/Documents/Day02_Dates.md>">Dates as data</a> (13 mins)</li>
+  <li><a href="/Documents/Day02_Qty.md>/">Quality control</a> (20 mins)</li>
+  <li><a href="/Documents/Day02_Exports.md>">Exporting data</a> (10 mins)</li>
 </ol>
 
 ## Data analysis with R ( )
