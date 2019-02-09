@@ -74,11 +74,11 @@ Data files for the lesson are available
 
 <ol>
   <li><a href=/Documents/Day02_Intro.md>Introduction</a> (18 mins)</li>
-  <li><a href="/Documents/Day02_Format.md>Formatting data</a> (35 mins)</li>
-  <li><a href="/Documents/Day02_Problems.md>Common formatting problems</a> (20 mins)
-  <li><a href="/Documents/Day02_Dates.md>">Dates as data</a> (13 mins)</li>
-  <li><a href="/Documents/Day02_Qty.md>/">Quality control</a> (20 mins)</li>
-  <li><a href="/Documents/Day02_Exports.md>">Exporting data</a> (10 mins)</li>
+  <li><a href=Day02_Formats.md>Formatting data</a> (35 mins)</li>
+  <li><a href=/Documents/Day02_Problems.md>Common formatting problems</a> (20 mins)
+  <li><a href=/Documents/Day02_Dates.md>Dates as data</a> (13 mins)</li>
+  <li><a href=/Documents/Day02_Qty.md>Quality control</a> (20 mins)</li>
+  <li><a href=/Documents/Day02_Exports.md>Exporting data</a> (10 mins)</li>
 </ol>
 
 ## Data analysis with R ( )
