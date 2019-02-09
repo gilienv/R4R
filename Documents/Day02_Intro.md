@@ -6,8 +6,8 @@
  
  | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Teaching | List all *new or modified* files |
+| Exercises | Show file differences that **haven't been** staged |
 
 ### Overview 
 |----- | -----| 
