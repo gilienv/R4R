@@ -2,14 +2,13 @@
 <img src = /Images/R4R_header.png>
 ## Data Organization in Spreadsheets: Introduction
  
-### Overview
-
- <b>Teaching:</b>15 min
- <b>Exercises</b> 3 min
-  
- <b>Questions</b><p>What are basic principles for using spreadsheets for good data organization?</p>
-<b>Objectives</b><p>Describe best practices for organizing data so computers can make the best use of data sets.</p>
-
+| ### Overview | 
+-----
+| *Teaching: * | 15 min | 
+ | *Exercises: * | 3 min " 
+|* Questions | What are basic principles for using spreadsheets for good data organization? | 
+| Objectives | Describe best practices for organizing data so computers can make the best use of data sets |
+-----
 
 <p>Authors:<strong>Gita Yadav</strong>, <strong>Ashley Sawle</strong><br /></p>
 
