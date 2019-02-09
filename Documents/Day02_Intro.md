@@ -4,11 +4,10 @@
 ## Data Organization in Spreadsheets: Introduction
  
  
- | Command | Description |
+ | Tasks | Description |
 | --- | --- |
-| Teaching | List all *new or modified* files |
-| Exercises | Show file differences that **haven't been** staged |
-
+| Teaching | 15 minutes |
+| Exercises | 3minues | 
 ### Overview 
 |----- | -----| 
 | *Teaching: * | 15 min | 
