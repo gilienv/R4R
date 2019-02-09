@@ -61,23 +61,18 @@ automatically interpreted it as 2015, the year you entered the data.</p>
 returns the current date and time, and <code class="highlighter-rouge">TODAY()</code>, which returns the current
 date. The results will be formatted according to your computer’s settings.</p>
 
-  * 1) Extract the year, month and day from the current date and time string
-returned by the <code class="highlighter-rouge">NOW()</code> function.<br />
-2) Calculate the current time using <code class="highlighter-rouge">NOW()-TODAY()</code>. <br />
-3) Extract the hour, minute and second from the current time using
-functions <code class="highlighter-rouge">HOUR()</code>, <code class="highlighter-rouge">MINUTE()</code> and <code class="highlighter-rouge">SECOND()</code>.<br />
-4) Press <code class="highlighter-rouge">F9</code> to force the spreadsheet to recalculate the <code class="highlighter-rouge">NOW()</code> function,
-and check that it has been updated.</p>
-  <blockquote class="solution">
-    <h2 id="solution-1">Solution</h2>
-    <p>1) To get the year, type <code class="highlighter-rouge">=YEAR(NOW())</code> into any cell in your spreadsheet. To get the month, type <code class="highlighter-rouge">=MONTH(NOW())</code>. To get the day, type <code class="highlighter-rouge">=DAY(NOW())</code>.<br />
-2) Typing <code class="highlighter-rouge">=NOW()-TODAY()</code> will result in a decimal value that is not easily human parsable to a clock-based time. You will need to use the strategies in the third part of this challenge to convert this decimal value to readable time.<br />
-3) To extract the hour, type <code class="highlighter-rouge">=HOUR(NOW()-TODAY())</code> and similarly for minute and second.</p>
- 
+1) Extract the year, month and day from the current date and time string returned by the <code class="highlighter-rouge">NOW()</code> function.
+2) Calculate the current time using <code class="highlighter-rouge">NOW()-TODAY()</code>
+3) Extract the hour, minute and second from the current time using functions <code class="highlighter-rouge">HOUR()</code>, <code class="highlighter-rouge">MINUTE()</code> and <code class="highlighter-rouge">SECOND()</code>.
+4) Press <code class="highlighter-rouge">F9</code> to force the spreadsheet to recalculate the <code class="highlighter-rouge">NOW()</code> function, and check that it has been updated.
 
+  ## Solution
+1) To get the year, type <code class="highlighter-rouge">=YEAR(NOW())</code> into any cell in your spreadsheet. To get the month, type <code class="highlighter-rouge">=MONTH(NOW())</code>. To get the day, type <code class="highlighter-rouge">=DAY(NOW())</code>.
+2) Typing <code class="highlighter-rouge">=NOW()-TODAY()</code> will result in a decimal value that is not easily human parsable to a clock-based time. You will need to use the strategies in the third part of this challenge to convert this decimal value to readable time.
+3) To extract the hour, type <code class="highlighter-rouge">=HOUR(NOW()-TODAY())</code> and similarly for minute and second
 <h2 id="preferred-date-format">Preferred date format</h2>
 
-<p>It is much safer to store dates with <a href="#day">YEAR, MONTH, DAY</a> in separate columns or as <a href="#doy">YEAR and DAY-OF-YEAR</a> in separate columns.</p>
+* It is much safer to store dates with <a href="#day">YEAR, MONTH, DAY</a> in separate columns or as <a href="#doy">YEAR and DAY-OF-YEAR</a> in separate columns.</p>
 
 <p><strong>Note</strong>: Excel is unable to parse dates from before 1899-12-31, and will thus leave these untouched.  If you’re mixing historic data
 from before and after this date, Excel will translate only the post-1900 dates into its internal format, thus resulting in mixed data.
