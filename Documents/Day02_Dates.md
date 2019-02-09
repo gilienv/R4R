@@ -29,7 +29,7 @@ conserve the timestamps, you are better off handling them using one of the solut
 for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding the date format overall, it’s easier to identify these issues.</p>
 
 
-![Status: **EXERCISE**](http://placehold.it/350x65/FF0000/FFFF00.png&text=EXERCISE)
+![Status: **EXERCISE**](http://placehold.it/350x45/FC0000/FCCF00.png&text=EXERCISE)
 
 ## Exercise
 
