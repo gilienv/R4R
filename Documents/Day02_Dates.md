@@ -33,7 +33,7 @@ for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding 
 
 ![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE1)
 
-  ## Challenge: pulling month, day and year out of dates</p>
+ * Challenge: pulling month, day and year out of dates</p>
 
   * In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
 There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
@@ -78,7 +78,7 @@ different serial number than the <a href="https://support.microsoft.com/en-us/he
 
 <p>Spreadsheet programs have numerous “useful features” which allow them to handle dates in a variety of ways.</p>
 
-<p><img src="../fig/5_excel_dates_1.jpg" alt="Many formats, many ambiguities" /></p>
+<p><img src="/Images/5_excel_dates_1.jpg" alt="Many formats, many ambiguities" /></p>
 
 <p>But these “features” often allow ambiguity to creep into your data. Ideally, data should be as unambiguous as possible.</p>
 
@@ -152,7 +152,7 @@ You will notice that when exporting into a text-based format (such as CSV), Exce
 
 <p>For instance this is a spreadsheet representing insect counts that were taken every few days over the summer, and things went something like this:</p>
 
-<p><img src="../fig/6_excel_dates_2.jpg" alt="So, so ambiguous, it's even confusing Excel" /></p>
+<p><img src="/Images/6_excel_dates_2.jpg" alt="So, so ambiguous, it's even confusing Excel" /></p>
 
 <p>If Excel was to be believed, this person had been collecting bugs <strong>in the future</strong>. Now, we have no doubt this person is highly capable,
 but I believe time travel was beyond even their grasp.</p>
@@ -173,7 +173,7 @@ year-to-year variation, and DOY can be used to measure the passage of time withi
 
 <p>So, can you convert all your dates into DOY format? Well, in Excel, here’s a useful guide:</p>
 
-<p><img src="../fig/7_excel_dates_3.jpg" alt="Kill that ambiguity before it bites you!" /></p>
+<p><img src="/Images/7_excel_dates_3.jpg" alt="Kill that ambiguity before it bites you!" /></p>
 
 <h3 id="-storing-dates-as-a-single-string"><a name="str"></a> Storing dates as a single string</h3>
 
@@ -194,28 +194,12 @@ knowing the format they can then be correctly processed by the receiving
 software.</p>
 
 
-<blockquote class="keypoints">
-  <h2>Key Points</h2>
-  <ul>
-    
-    <li><p>Treating dates as multiple pieces of data rather than one makes them easier to handle.</p>
-</li>
-    
-  </ul>
-</blockquote>
-
-</article>
-
-
-
 
 
  
 
 ## Key Points
-- Never modify your raw data. Always make a copy before making any changes.
-- Keep track of all of the steps you take to clean your data in a plain text file.
-- Organize your data according to tidy data principles.
+- Treating dates as multiple pieces of data rather than one makes them easier to handle.
 
 | <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
   | ---- | ----|    
