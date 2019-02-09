@@ -49,7 +49,7 @@ There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
 
   ## Challenge: pulling hour, minute and second out of the current time</p>
 
-  * Current time and date are best retrieved using the functions <code class="highlighter-rouge">NOW()</code>, which
+Current time and date are best retrieved using the functions <code class="highlighter-rouge">NOW()</code>, which
 returns the current date and time, and <code class="highlighter-rouge">TODAY()</code>, which returns the current
 date. The results will be formatted according to your computer’s settings.</p>
 
