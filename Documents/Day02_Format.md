@@ -112,7 +112,7 @@ variables, rows = observations, cells = data (values).</p>
 - This is a real dataset that has been used in over 100 publications. We’ve simplified it just a little bit for the workshop, but you can download the full dataset and work with it using exactly the same tools we’ll learn about today.
  
  ## Exercise
-We’re going to take a messy version of the survey data and describe how we would clean it up.
+- We’re going to take a messy version of the survey data and describe how we would clean it up.
 	- Download the data by clicking <a href="https://ndownloader.figshare.com/files/2252083">here</a> to get it from FigShare.
 	- Open up the data in a spreadsheet program.</li>
 	- You can see that there are two tabs. Two field assistants conducted the surveys, one in 2013 and one in 2014, and they both kept track of the data in their own way. Now you’re the person in charge of this project and you want to be able to 
@@ -122,18 +122,15 @@ start analyzing the data.</li>
 	- After you go through this exercise, we’ll discuss as a group what was wrong with this data and how you would fix it.</p>
 
 ## Solution
-    <ul>
-      <li>Take about 10 minutes to work on this exercise.</li>
-      <li>All the mistakes in <a href="../02-common-mistakes">02-common-mistakes</a> are present in the messy dataset. If the
-exercise is done during a workshop, ask people what they saw as wrong with
-the data. As they bring up different points, you can refer to <a href="../02-common-mistakes">02-common-mistakes</a>
-or expand a bit on the point they brought up.</li>
-      <li>If you get a response where they’ve fixed the date, you can pause and go to the <a href="../03-dates-as-data">03-dates-as-data</a> lesson. Or you can say you’ll come back to dates at the end.</li>
-    </ul>
-  </blockquote>
-</blockquote>
+    
+   - Take about 10 minutes to work on this exercise
+   - All the mistakes in <a href="../02-common-mistakes">02-common-mistakes</a> are present in the messy dataset. 
+   - Ask people what they saw as wrong with the data. As they bring up different points, you can refer to <a href="../02-common-mistakes">02-common-mistakes</a> or expand a bit on the point they brought up.
+   - If you get a response where they’ve fixed the date, you can pause and go to the <a href="../03-dates-as-data">03-dates-as-data</a> lesson. Or you can say you’ll come back to dates at the end.
+ 
 
-<p>An excellent reference, in particular with regard to R scripting is</p>
+## Reference
+* An excellent reference, in particular with regard to R scripting is</p>
 
 <blockquote>
   <p>Hadley Wickham, <em>Tidy Data</em>, Vol. 59, Issue 10, Sep 2014, Journal of
@@ -142,41 +139,13 @@ Statistical Software. <a href="http://www.jstatsoft.org/v59/i10">http://www.jsta
 
 
 
-<blockquote class="keypoints">
-  <h2>Key Points</h2>
-  <ul>
-    
-    <li><p>Never modify your raw data. Always make a copy before making any changes.</p>
-</li>
-    
-    <li><p>Keep track of all of the steps you take to clean your data in a plain text file.</p>
-</li>
-    
-    <li><p>Organize your data according to tidy data principles.</p>
-</li>
-    
-  </ul>
-</blockquote>
-
-</article>
+## Key Points
+- Never modify your raw data. Always make a copy before making any changes.
+- Keep track of all of the steps you take to clean your data in a plain text file.
+- Organize your data according to tidy data principles.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-xs-1">
     <h3 class="text-left">
       
       <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">previous episode</span></a>
