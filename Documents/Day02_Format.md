@@ -19,50 +19,7 @@ quality control functions.
 
 
  
-
-
-<blockquote class="objectives">
-  <h2>Overview</h2>
-
-  <div class="row">
-    <div class="col-md-3">
-      <strong>Teaching:</strong> 15 min
-      <br/>
-      <strong>Exercises:</strong> 20 min
-    </div>
-    <div class="col-md-9">
-      <strong>Questions</strong>
-      <ul>
-	
-	<li><p>How do we format data in spreadsheets for effective data use?</p>
-</li>
-	
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-9">
-      <strong>Objectives</strong>
-      <ul>
-	
-	<li><p>Describe best practices for data entry and formatting in spreadsheets.</p>
-</li>
-	
-	<li><p>Apply best practices to arrange variables and observations in a spreadsheet.</p>
-</li>
-	
-      </ul>
-    </div>
-  </div>
-
-</blockquote>
-
-<p>Authors: <strong>Christie Bahlai</strong>, <strong>Aleksandra Pawlik</strong><br /></p>
-
-<p>The most common mistake made is treating spreadsheet programs like lab notebooks, that is,
+The most common mistake made is treating spreadsheet programs like lab notebooks, that is,
 relying on context, notes in the margin,
 spatial layout of data and fields to convey information. As humans, we
 can (usually) interpret these things, but computers don’t view information the same way, and
