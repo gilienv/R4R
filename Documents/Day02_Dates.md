@@ -19,17 +19,16 @@ practice. A spreadsheet application will display the dates in a
 seemingly correct way (to a human observer) but how it actually handles
 and stores the dates may be problematic.</p>
 
-<p>In particular, please remember that functions that are valid for a given
+* In particular, please remember that functions that are valid for a given
 spreadsheet program (be it LibreOffice, Microsoft Excel, OpenOffice,
 Gnumeric, etc.) are usually guaranteed to be compatible only within the same
 family of products. If you will later need to export the data and need to
 conserve the timestamps, you are better off handling them using one of the solutions discussed below.</p>
 
-<p>Additionally, Excel can <a href="https://nsaunders.wordpress.com/2012/10/22/gene-name-errors-and-excel-lessons-not-learned/">turn things that aren’t dates into dates</a>, 
+* Additionally, Excel can <a href="https://nsaunders.wordpress.com/2012/10/22/gene-name-errors-and-excel-lessons-not-learned/">turn things that aren’t dates into dates</a>, 
 for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding the date format overall, it’s easier to identify these issues.</p>
 
-<blockquote class="challenge">
-  <h2 id="exercise">Exercise</h2>
+## Exercise
 
   <p>Challenge: pulling month, day and year out of dates</p>
 
@@ -55,8 +54,7 @@ automatically interpreted it as 2015, the year you entered the data.</p>
   </blockquote>
 </blockquote>
 
-<blockquote class="challenge">
-  <h2 id="exercise-1">Exercise</h2>
+## Exercise
 
   <p>Challenge: pulling hour, minute and second out of the current time</p>
 
@@ -76,8 +74,7 @@ and check that it has been updated.</p>
     <p>1) To get the year, type <code class="highlighter-rouge">=YEAR(NOW())</code> into any cell in your spreadsheet. To get the month, type <code class="highlighter-rouge">=MONTH(NOW())</code>. To get the day, type <code class="highlighter-rouge">=DAY(NOW())</code>.<br />
 2) Typing <code class="highlighter-rouge">=NOW()-TODAY()</code> will result in a decimal value that is not easily human parsable to a clock-based time. You will need to use the strategies in the third part of this challenge to convert this decimal value to readable time.<br />
 3) To extract the hour, type <code class="highlighter-rouge">=HOUR(NOW()-TODAY())</code> and similarly for minute and second.</p>
-  </blockquote>
-</blockquote>
+ 
 
 <h2 id="preferred-date-format">Preferred date format</h2>
 
