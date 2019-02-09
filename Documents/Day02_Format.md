@@ -10,16 +10,8 @@
 | Question| How do we format data in spreadsheets for effective data use? |
 | Objective | Describe best practices for data entry and formatting in spreadsheets |
 | Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
-
-* Good data organization is the foundation of your research
-project. Most researchers have data or do data entry in
-spreadsheets. Spreadsheet programs are very useful graphical
-interfaces for designing data tables and handling very basic data
-quality control functions. 
-
-
  
-The most common mistake made is treating spreadsheet programs like lab notebooks, that is,
+* The most common mistake made is treating spreadsheet programs like lab notebooks, that is,
 relying on context, notes in the margin,
 spatial layout of data and fields to convey information. As humans, we
 can (usually) interpret these things, but computers don’t view information the same way, and
@@ -27,12 +19,12 @@ unless we explain to the computer what every single thing means (and
 that can be hard!), it will not be able to see how our data fits
 together.</p>
 
-<p>Using the power of computers, we can manage and analyze data in much more 
+* Using the power of computers, we can manage and analyze data in much more 
 effective and faster ways, but to use that power, we have to set up
 our data for the computer to be able to understand it (and computers are very 
 literal).</p>
 
-<p>This is why it’s extremely important to set up well-formatted
+* This is why it’s extremely important to set up well-formatted
 tables from the outset - before you even start entering data from
 your very first preliminary experiment. Data organization is the
 foundation of your research project. It can make it easier or harder
