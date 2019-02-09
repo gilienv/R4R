@@ -132,5 +132,5 @@ Data files for the lesson are available
 
 ## Copyright &copy; 2016	
 <a href="https://software-carpentry.org">Software Carpentry Foundation</a>
-	<a href="mailto:lessons@software-carpentry.org">Contact</a>
+	<a href="mailto:lessons@software-carpentry.org">[Contact]</a>
      
