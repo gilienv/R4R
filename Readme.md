@@ -10,7 +10,7 @@ Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Sched
 ## Course Pages
 <a href=/Documents/Day01.md> Day 01 </a> : Evening Meet & Greet. Dinner
 
-<a href=/Documents/Day02.md> Day 02 </a> : Introduction to R and RStudio
+<a href=/Documents/Day02.md> Day 02 </a> : Biological Data Anlysis using R
 
 <a href=/Documents/Day03.md> Day 03 </a> : Data Manipulation and Graphics in R
 
