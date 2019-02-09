@@ -59,7 +59,7 @@ do this in a plain text file stored in the same folder as the data file.</li>
 
 <p>This might be an example of a spreadsheet setup:</p>
 
-<p><img src="../fig/spreadsheet-setup-updated.png" alt="spreadsheet setup" /></p>
+<p><img src=/Images/spreadsheet1.png alt="spreadsheet setup" /></p>
 
 <p>Put these principles in to practice today during your Exercises.</p>
 
