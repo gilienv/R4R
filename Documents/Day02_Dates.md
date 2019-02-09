@@ -127,17 +127,16 @@ fully aware of which format you’re using, you can end up actually entering you
 
 ![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE3)
 
-* What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?</p>
+* What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? 
+* What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?
+
 ## Solution
-    <ul>
-      <li>Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.</li>
-      <li>Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>.</li>
-      <li>You will see a pop-up that says “This workbook cannot be saved in the selected file format because it contains multiple sheets.” Choose <code class="highlighter-rouge">Save Active Sheet</code>.</li>
-      <li>Navigate to the file in your finder application. Right click and select <code class="highlighter-rouge">Open With</code>. Choose a plain text editor application and view the file. Notice that the dates display as month/day without any year information.</li>
-      <li>Now right click on the file again and open with Excel. Notice that the dates display with the current year, not 2015. <br />
-As you can see, exporting data from Excel and then importing it back into Excel fundamentally changed the data!</li>
-    </ul>
-  
+- Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.
+- Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>
+- You will see a pop-up that says “This workbook cannot be saved in the selected file format because it contains multiple sheets.” Choose <code class="highlighter-rouge">Save Active Sheet</code>.
+- Navigate to the file in your finder application. Right click and select <code class="highlighter-rouge">Open With</code>. Choose a plain text editor application and view the file. Notice that the dates display as month/day without any year information.
+- Now right click on the file again and open with Excel. Notice that the dates display with the current year, not 2015. <br />
+- As you can see, exporting data from Excel and then importing it back into Excel fundamentally changed the data! 
 
 <p><strong>Note</strong><br />
 You will notice that when exporting into a text-based format (such as CSV), Excel will export its internal date integer instead of a useful value (that is, the dates will be represented as integer numbers). This can potentially lead to problems if you use other software to manipulate the file.</p>
