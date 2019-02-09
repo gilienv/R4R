@@ -1,7 +1,8 @@
 <img src = /Images/R4R_header.png>
 
-## Dates as data
- 
+
+![Status: **DATES AS DATA**](http://placehold.it/750x55/FF8C00/000000.png&text=DATES+AS+DATA)
+
  
  | Overview | Description |
 | --- | --- |
@@ -30,7 +31,7 @@ for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding 
 
 
 
-![Status: **EXERCISE**](http://placehold.it/650x55/FF8C00/FFFFFF.png&text=EXERCISE)
+![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE)
 
   <p>Challenge: pulling month, day and year out of dates</p>
 
