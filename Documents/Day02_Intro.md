@@ -1,16 +1,13 @@
+
+<img src = /Images/R4R_header.png>
 ## Data Organization in Spreadsheets: Introduction
  
 ### Introduction
 
+#### Overview
 
-<blockquote class="objectives">
-  <h2>Overview</h2>
-
-  <div class="row">
-    <div class="col-md-3">
-      <strong>Teaching:</strong> 15 min
-      <br/>
-      <strong>Exercises:</strong> 3 min
+ <b>Teaching:</b>15 min
+ <b>Exercises</b> 3 min
     </div>
     <div class="col-md-9">
       <strong>Questions</strong>
