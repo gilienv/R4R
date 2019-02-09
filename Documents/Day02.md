@@ -129,3 +129,9 @@ Data files for the lesson are available
         <code>sudo dnf install R</code>).  Also, please install the
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
       
+
+
+## Copyright &copy; 2016	
+<a href="https://software-carpentry.org">Software Carpentry Foundation</a>
+	<a href="mailto:lessons@software-carpentry.org">Contact</a>
+     
