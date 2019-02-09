@@ -8,76 +8,12 @@
 | Teaching | 10 minutes |
 | Exercises | 3 minutes | 
 | Question| What are good approaches for handling dates in spreadsheets? |
-| Objectives | - Describe how dates are stored and formatted in spreadsheets. |
+| Objectives | Describe how dates are stored and formatted in spreadsheets. |
 ||  Describe the advantages of alternative date formatting in spreadsheets. | 
 || Demonstrate best practices for entering dates in spreadsheets.|
 | Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
 
-* Good data organization is the foundation of your research
-project. Most researchers have data or do data entry in
-spreadsheets. Spreadsheet programs are very useful graphical
-interfaces for designing data tables and handling very basic data
-quality control functions. 
-
-
-
-<article>
-<div class="row">
-  <div class="col-md-1">
-  </div>
-  <div class="col-md-10">
-    <h1 class="maintitle">Dates as data</h1>
-  </div>
-  <div class="col-md-1">
-  </div>
-</div>
-
-
-<blockquote class="objectives">
-  <h2>Overview</h2>
-
-  <div class="row">
-    <div class="col-md-3">
-      <strong>Teaching:</strong> 10 min
-      <br/>
-      <strong>Exercises:</strong> 3 min
-    </div>
-    <div class="col-md-9">
-      <strong>Questions</strong>
-      <ul>
-	
-	<li><p>What are good approaches for handling dates in spreadsheets?</p>
-</li>
-	
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-9">
-      <strong>Objectives</strong>
-      <ul>
-	
-	<li><p>Describe how dates are stored and formatted in spreadsheets.</p>
-</li>
-	
-	<li><p>Describe the advantages of alternative date formatting in spreadsheets.</p>
-</li>
-	
-	<li><p>Demonstrate best practices for entering dates in spreadsheets.</p>
-</li>
-	
-      </ul>
-    </div>
-  </div>
-
-</blockquote>
-
-<p>Authors:<strong>Christie Bahlai</strong>, <strong>Aleksandra Pawlik</strong><br /></p>
-
-<p>Dates in spreadsheets are stored in a single column. While this seems the
+* Dates in spreadsheets are stored in a single column. While this seems the
 most natural way to record dates, it actually is not best
 practice. A spreadsheet application will display the dates in a
 seemingly correct way (to a human observer) but how it actually handles
