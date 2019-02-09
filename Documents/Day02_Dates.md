@@ -27,7 +27,9 @@ conserve the timestamps, you are better off handling them using one of the solut
 
 * Additionally, Excel can <a href="https://nsaunders.wordpress.com/2012/10/22/gene-name-errors-and-excel-lessons-not-learned/">turn things that aren’t dates into dates</a>, 
 for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding the date format overall, it’s easier to identify these issues.</p>
+
 <span style=“color:green;”> text goes here</span>
+
 ## Exercise
 
   <p>Challenge: pulling month, day and year out of dates</p>
