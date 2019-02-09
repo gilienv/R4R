@@ -33,10 +33,9 @@ for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding 
 
 ![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE1)
 
-  * Challenge: pulling month, day and year out of dates</p>
+  ## Challenge: pulling month, day and year out of dates</p>
 
-  <ul>
-    <li>In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
+  * In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
 There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
     <li>Let’s extract month, day and year from the dates to new columns. For this we 
 can use the built in Excel functions</li>
@@ -51,21 +50,18 @@ can use the built in Excel functions</li>
   * You can see that even though you wanted the year to be 2014, your spreadsheet program
 automatically interpreted it as 2015, the year you entered the data.</p>
 
-  <blockquote class="solution">
-    <h2 id="solution">Solution</h2>
+## Solution</h2>
     <p class="output"><img src="../fig/solution_exercise_1_dates.png" alt="dates, exersize 1" /></p>
-  </blockquote>
-</blockquote>
 
 ![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE2)
 
-  <p>Challenge: pulling hour, minute and second out of the current time</p>
+  ## Challenge: pulling hour, minute and second out of the current time</p>
 
-  <p>Current time and date are best retrieved using the functions <code class="highlighter-rouge">NOW()</code>, which
+  * Current time and date are best retrieved using the functions <code class="highlighter-rouge">NOW()</code>, which
 returns the current date and time, and <code class="highlighter-rouge">TODAY()</code>, which returns the current
 date. The results will be formatted according to your computer’s settings.</p>
 
-  <p>1) Extract the year, month and day from the current date and time string
+  * 1) Extract the year, month and day from the current date and time string
 returned by the <code class="highlighter-rouge">NOW()</code> function.<br />
 2) Calculate the current time using <code class="highlighter-rouge">NOW()-TODAY()</code>. <br />
 3) Extract the hour, minute and second from the current time using
