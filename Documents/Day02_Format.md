@@ -106,7 +106,10 @@ variables, rows = observations, cells = data (values).</p>
 
 <p><img src="/Images/single-info.png" alt="single-info example" /></p>
 
-<blockquote class="discussion">
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
   <h2 id="discussion">Discussion</h2>
   <p>If not already discussed, introduce the dataset that will be used in this
 lesson, and in the other ecology lessons, the <a href="http://www.datacarpentry.org/ecology-workshop/data/">Portal Project Teaching Dataset</a>.</p>
