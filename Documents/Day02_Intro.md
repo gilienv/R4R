@@ -2,41 +2,16 @@
 <img src = /Images/R4R_header.png>
 ## Data Organization in Spreadsheets: Introduction
  
-### Introduction
-
-#### Overview
+### Overview
 
  <b>Teaching:</b>15 min
  <b>Exercises</b> 3 min
-    </div>
-    <div class="col-md-9">
-      <strong>Questions</strong>
-      <ul>
-	
-	<li><p>What are basic principles for using spreadsheets for good data organization?</p>
-</li>
-	
-      </ul>
-    </div>
-  </div>
+  
+ <b>Questions</b><p>What are basic principles for using spreadsheets for good data organization?</p>
+<b>Objectives</b><p>Describe best practices for organizing data so computers can make the best use of data sets.</p>
 
-  <div class="row">
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-9">
-      <strong>Objectives</strong>
-      <ul>
-	
-	<li><p>Describe best practices for organizing data so computers can make the best use of data sets.</p>
-</li>
-	
-      </ul>
-    </div>
-  </div>
 
-</blockquote>
-
-<p>Authors:<strong>Christie Bahlai</strong>, <strong>Aleksandra Pawlik</strong><br /></p>
+<p>Authors:<strong>Gita Yadav</strong>, <strong>Ashley Sawle</strong><br /></p>
 
 <p>Good data organization is the foundation of your research
 project. Most researchers have data or do data entry in
