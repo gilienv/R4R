@@ -9,8 +9,8 @@
 | Exercises | 3 minutes | 
 | Question| What are good approaches for handling dates in spreadsheets? |
 | Objectives | - Describe how dates are stored and formatted in spreadsheets. |
-|--- |  Describe the advantages of alternative date formatting in spreadsheets. | 
-| ---| Demonstrate best practices for entering dates in spreadsheets.|
+||  Describe the advantages of alternative date formatting in spreadsheets. | 
+|| Demonstrate best practices for entering dates in spreadsheets.|
 | Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
 
 * Good data organization is the foundation of your research
