@@ -33,7 +33,7 @@ for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding 
 
 ![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE1)
 
- * Challenge: pulling month, day and year out of dates</p>
+ ## Challenge: pulling month, day and year out of dates</p>
 
   * In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
 There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
