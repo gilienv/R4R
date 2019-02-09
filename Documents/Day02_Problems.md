@@ -242,41 +242,18 @@ all the files and folders in a project.</p>
 
 <p>(Text on metadata adapted from the online course Research Data <a href="http://datalib.edina.ac.uk/mantra">MANTRA</a> by EDINA and Data Library, University of Edinburgh. MANTRA is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.)</p>
 
-  <h2>Key Points</h2>
-  <ul>
-    
-    <li><p>Avoid using multiple tables within one spreadsheet.</p>
-</li>
-    
-    <li><p>Avoid spreading data across multiple tabs.</p>
-</li>
-    
-    <li><p>Record zeros as zeros.</p>
-</li>
-    
-    <li><p>Use an appropriate null value to record missing data.</p>
-</li>
-    
-    <li><p>Don’t use formatting to convey information or to make your spreadsheet look pretty.</p>
-</li>
-    
-    <li><p>Place comments in a separate column.</p>
-</li>
-    
-    <li><p>Record units in column headers.</p>
-</li>
-    
-    <li><p>Include only one piece of information in a cell.</p>
-</li>
-    
-    <li><p>Avoid spaces, numbers and special characters in column headers.</p>
-</li>
-    
-    <li><p>Avoid special characters in your data.</p>
-</li>
-    
-    <li><p>Record metadata in a separate plain text file.</p>
-</li>
+ ## Key Points
+-Avoid using multiple tables within one spreadsheet.
+-Avoid spreading data across multiple tabs
+-Record zeros as zeros.
+-Use an appropriate null value to record missing data.
+-Don’t use formatting to convey information or to make your spreadsheet look pretty.
+-Place comments in a separate column.
+-Record units in column headers.
+-Include only one piece of information in a cell
+-Avoid spaces, numbers and special characters in column headers.
+-Avoid special characters in your data
+-Record metadata in a separate plain text file.
 
 
 | <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
