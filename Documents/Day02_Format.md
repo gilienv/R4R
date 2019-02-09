@@ -90,7 +90,7 @@ weight, sex and date collected.</p>
 
 <p>If they were to keep track of the data like this:</p>
 
-<p><img src="../fig/multiple-info.png" alt="multiple-info example" /></p>
+<p><img src=/Images/multiple-info.png alt="multiple-info example" /></p>
 
 <p>the problem is that species and sex are in the same field. So, if they wanted to 
 look at all of one species or look at different weight distributions by sex, 
@@ -104,7 +104,7 @@ variables, rows = observations, cells = data (values).</p>
 
 <p>So, instead we should have:</p>
 
-<p><img src="../fig/single-info.png" alt="single-info example" /></p>
+<p><img src="/Images/single-info.png" alt="single-info example" /></p>
 
 <blockquote class="discussion">
   <h2 id="discussion">Discussion</h2>
