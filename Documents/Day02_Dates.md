@@ -30,9 +30,6 @@ There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
 <code class="highlighter-rouge">DAY()</code>
   * (Make sure the new column is formatted as a number and not as a date.)
   * You can see that even though you wanted the year to be 2014, your spreadsheet program automatically interpreted it as 2015, the year you entered the data.</p>
----
-### Solution
- <img src="/Images/solution_exercise_1_dates.png" alt="dates, exersize 1" />
 
 ---
 ## Exercise 2
@@ -47,15 +44,6 @@ date. The results will be formatted according to your computer’s settings.</p>
 2) Calculate the current time using <code class="highlighter-rouge">NOW()-TODAY()</code>
 3) Extract the hour, minute and second from the current time using functions <code class="highlighter-rouge">HOUR()</code>, <code class="highlighter-rouge">MINUTE()</code> and <code class="highlighter-rouge">SECOND()</code>.
 4) Press <code class="highlighter-rouge">F9</code> to force the spreadsheet to recalculate the <code class="highlighter-rouge">NOW()</code> function, and check that it has been updated.
----
- ### Solution
-1) To get the year, type <code class="highlighter-rouge">=YEAR(NOW())</code> into any cell in your spreadsheet. To get the month, type <code class="highlighter-rouge">=MONTH(NOW())</code>. To get the day, type <code class="highlighter-rouge">=DAY(NOW())</code>.
-2) Typing <code class="highlighter-rouge">=NOW()-TODAY()</code> will result in a decimal value that is not easily human parsable to a clock-based time. You will need to use the strategies in the third part of this challenge to convert this decimal value to readable time.
-3) To extract the hour, type <code class="highlighter-rouge">=HOUR(NOW()-TODAY())</code> and similarly for minute and second
-<h2 id="preferred-date-format">Preferred date format</h2>
-
-* It is much safer to store dates with <a href="#day">YEAR, MONTH, DAY</a> in separate columns or as <a href="#doy">YEAR and DAY-OF-YEAR</a> in separate columns.</p>
-
 
 <blockquote>
   <p>Note: Excel is unable to parse dates from before 1899-12-31, and will thus leave these untouched.  If you’re mixing historic data
@@ -126,14 +114,6 @@ fully aware of which format you’re using, you can end up actually entering you
 * What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?
 
 ---
-
-### Solution
-- Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.
-- Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>
-- You will see a pop-up that says “This workbook cannot be saved in the selected file format because it contains multiple sheets.” Choose <code class="highlighter-rouge">Save Active Sheet</code>.
-- Navigate to the file in your finder application. Right click and select <code class="highlighter-rouge">Open With</code>. Choose a plain text editor application and view the file. Notice that the dates display as month/day without any year information.
-- Now right click on the file again and open with Excel. Notice that the dates display with the current year, not 2015. <br />
-- As you can see, exporting data from Excel and then importing it back into Excel fundamentally changed the data! 
 
 <p><strong>Note</strong><br />
 You will notice that when exporting into a text-based format (such as CSV), Excel will export its internal date integer instead of a useful value (that is, the dates will be represented as integer numbers). This can potentially lead to problems if you use other software to manipulate the file.</p>
