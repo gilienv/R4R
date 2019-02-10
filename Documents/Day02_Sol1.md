@@ -15,9 +15,9 @@ start analyzing the data.</li>
 ### Solution
     
    - Take about 10 minutes to work on this exercise
-   - All the mistakes in <a href="../02-common-mistakes">02-common-mistakes</a> are present in the messy dataset. 
-   - Ask people what they saw as wrong with the data. As they bring up different points, you can refer to <a href="../02-common-mistakes">02-common-mistakes</a> or expand a bit on the point they brought up.
-   - If you get a response where they’ve fixed the date, you can pause and go to the <a href="../03-dates-as-data">03-dates-as-data</a> lesson. Or you can say you’ll come back to dates at the end.
+   - All the mistakes in <a href="/Documents/Day02_Problems.md">Common Mistakes</a> are present in the messy dataset. 
+   - Ask people what they saw as wrong with the data. As they bring up different points, you can refer to <a href="/Documents/Day02_Problems.md">Common Mistakes</a> or expand a bit on the point they brought up.
+   - If you get a response where they’ve fixed the date, you can pause and go to the <a href="/Documents/Day02_Dates.md">Dates As Data</a> lesson. Or you can say you’ll come back to dates at the end.
  
 ---
 
