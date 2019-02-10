@@ -12,9 +12,9 @@ We hope that delegates will use this evening for ice breaking and meeting each o
 
 There will be talks by Workshop Coordinators and Instructors.
 
-The evening will have Round Table Introductions for everyone to introduce themselves and their work.
+We will have Round Table Introductions for everyone to introduce themselves and their work. Please prepare a two minute introdctory speech about yourself, your background and your current work.
 
-<b>Note: There will also be oppotunities to meet Volunteers and Instructors for preliminary enquiries on Set up and Installation. Delegates must bring along their machines if they wish to get help</b>
+<b>Note: There will be opportunities to meet Workshop Volunteers and Instructors for preliminary enquiries on Set up and Installation. Delegates must bring along their machines if they wish to get help</b>
 
 ## Detailed Agenda:
 <img src = /Images/Day01.png>
