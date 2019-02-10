@@ -75,14 +75,12 @@ your work or someone asks for details of your analysis.</p>
 <p>Commands may differ a bit between programs, but the general idea
 is the same.</p>
 
-<blockquote class="callout">
-  <h2 id="exercise">Exercise</h2>
+## Exercise
   <ul>
     <li>How many people have used spreadsheets in their research?</li>
     <li>How many people have accidentally done something that made them
 frustrated or sad?</li>
   </ul>
-</blockquote>
 
 <p>Spreadsheets encompass a lot of the things we need
 to be able to do as researchers. We can use them for:</p>
@@ -140,11 +138,11 @@ to be the program most used by biologists and ecologists.</p>
 <p>In this lesson we’re going to talk about:</p>
 
 <ol>
-  <li><a href="../01-format-data/">Formatting data tables in spreadsheets</a></li>
-  <li><a href="../02-common-mistakes/">Formatting problems</a></li>
-  <li><a href="../03-dates-as-data/">Dates as data</a></li>
-  <li><a href="../04-quality-control/">Quality control</a></li>
-  <li><a href="../05-exporting-data/">Exporting data</a></li>
+  <li><a href="/Documents/Day02_Format.md">Formatting data tables in spreadsheets</a></li>
+  <li><a href="/Documents/Day02_Problems.md">Formatting problems</a></li>
+  <li><a href="/Documents/Day02.Dates.md">Dates as data</a></li>
+  <li><a href="/Documents/Day02_Qty.md">Quality control</a></li>
+  <li><a href="/Documents/Day02_Exports.md/">Exporting data</a></li>
 </ol>
 
 
