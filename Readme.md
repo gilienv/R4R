@@ -82,8 +82,15 @@ Cultural Evening: Kabir & Other Mystics (Shabnam Virmani) | NIPGR | Dinner inclu
 
 More Information <a href=/Images/Shabnamposter.pdf>Here</a>.
 
-## Date: 
+### 28th Feb, 2pm
+Career Development Workshop for Early Career Researchers | IHC | High Tea Included
+
+<a href=https://in.linkedin.com/in/savita-ayyar-91a20241>Dr Savita Ayyar</a> is a Research Management professional and consultant with over ten years of experience in diverse areas of the field. She will join TIGR2ESS Program Managers <a href=https://www.plantsci.cam.ac.uk/directory/eichenberger-rose>Rose Eicheberger</a> and Aakriti Wanchoo to conduct a career crafting skills workshop on the afternoon of Feb 28, 2019.
+
+More Information Here.
+
+## Workshop Dates: 
 Sunday, 24 February, 2019 - 17:00 to Friday, 1 March, 2019 - 17:30
 
-## Event Venue: 
+## Workshop Event Venue: 
 Casuarina Hall, India Habitat Centre Lodhi Road, New Delhi-110003, India
