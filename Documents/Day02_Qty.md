@@ -33,10 +33,10 @@
 
 ###### *Let’s try this out by setting the plot column in our spreadsheet to only allow plot values that are integers between 1 and 24.</p>
 
--- Select the <code class="highlighter-rouge">plot_id</code> column
--- On the <code class="highlighter-rouge">Data</code> tab select <code class="highlighter-rouge">Data Validation</code>
--- In the <code class="highlighter-rouge">Allow</code> box select <code class="highlighter-rouge">Whole number</code>
--- Set the minimum and maximum values to 1 and 24.
+- Select the <code class="highlighter-rouge">plot_id</code> column
+- On the <code class="highlighter-rouge">Data</code> tab select <code class="highlighter-rouge">Data Validation</code>
+- In the <code class="highlighter-rouge">Allow</code> box select <code class="highlighter-rouge">Whole number</code>
+- Set the minimum and maximum values to 1 and 24.
 
 <ol>
   <li>Select the <code class="highlighter-rouge">plot_id</code> column</li>
