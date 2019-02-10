@@ -131,6 +131,11 @@ Data files for the lesson are available
       
 ## End of Basic Course
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 |a|b|c|d|
 ---
 |a|b|c|d|
