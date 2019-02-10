@@ -168,50 +168,6 @@ that are excessively long. Including the units in the field names avoids confusi
 | weight	| weight	| w.
 | cell_type	| CellType	| Cell Type
 | Observation_01	| first_observation	| 1st Obs
-| ---- | ----|  --- |
-
-<table bgcolor="red"  align="left" style="width =50%; border: 1px green;">
-<tr>
-	<td> <b>Good Name</b></td> <br />
-	<td> <b>Good Alternative </b> </td><br />
-	<td> <b>Avoid </b></td><br />
-</tr>
-<tr>
-	<td> Max_temp_C</td>
-	<td> MaxTemp </td>
-	<td> Maximum Temp (°C) </td>
-</tr>
-<tr>
-	<td> Precipitation_mm</td>
-	<td> Precipitation</td>
-	<td> precmm </td>
-</tr>	
-<tr>
-	<td> Mean_year_growth</td>
-	<td> MeanYearGrowth </td>
-	<td> Mean growth/year</td>	
-</tr>	
-<tr>
-	<td> sex </td>
-	<td> sex </td>	
-	<td> M/F </td>
-</tr>
-<tr>	
-	<td> weight </td>
-	<td> weight </td>	
-	<td> w.</td>	
-</tr>
-<tr>	
-	<td> cell_type </td>
-	<td> CellType </td>
-	<td> Cell Type </td>
-</tr>
-<tr>
-	<td> Observation_01 </td>
-	<td> first_observation</td>
-	<td> 1st Obs</td>
-</tr>
-</table>
 
 <h2 id="-using-special-characters-in-data"><a name="special"></a> Using special characters in data</h2>
 
