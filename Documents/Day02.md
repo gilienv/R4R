@@ -16,6 +16,12 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
 
 <a href=https://www.cruk.cam.ac.uk/author/ashley-sawle>Dr Ashley Sawle | Cancer Research UK</a>
 
+### Helpers: 
+
+* Mr. Nagendra Singh, <a href=http://www.nipgr.ac.in/home/home.php>NIPGR</a>
+* Mr. Priyesh Agarwal, <a href=http://www.nii.res.in/>NII</a>
+* Ms. Saumya Priyadarshini, <a href=https://jnu.ac.in/scis>SCIS, JNU</a>
+
 #### General Information
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
