@@ -1,8 +1,6 @@
 <img src = /Images/R4R_header.png>
 
-
-![Status: **DATES AS DATA**](http://placehold.it/750x55/FF8C00/000000.png&text=DATES+AS+DATA)
-
+## Dates As Data
  
  | Overview | Description |
 | --- | --- |
@@ -12,7 +10,7 @@
 | Objectives | Describe how dates are stored and formatted in spreadsheets. |
 ||  Describe the advantages of alternative date formatting in spreadsheets. | 
 || Demonstrate best practices for entering dates in spreadsheets.|
-| Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
+| Presenters | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
 
 * Dates in spreadsheets are stored in a single column. While this seems the
 most natural way to record dates, it actually is not best
@@ -197,10 +195,12 @@ software.</p>
 
 ## Key Points
 - Treating dates as multiple pieces of data rather than one makes them easier to handle.
+---
 
-| <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
-  | ---- | ----|    
+| <a href="Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day03.md""><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="Documents/Day02_Sol2.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> 
+  | ---- | ----|---- | 
   
+---
 Licensed under <a href="">CC-BY 4.0</a> 2018–2019 by <a href="https://carpentries.org/">The Carpentries</a>
         <br>
 Licensed under <a href="">CC-BY 4.0</a> 2016–2018 by <a href="http://datacarpentry.org">Data Carpentry</a>
