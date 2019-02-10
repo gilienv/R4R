@@ -113,13 +113,17 @@ the quantities to the correct entities.</p>
 
 <p>Which brings us to the many different ways Excel provides in how it displays dates. If you refer to the figure above, you’ll see that
 there are many ways that ambiguity creeps into your data depending on the format you chose when you enter your data, and if you’re not
-fully aware of which format you’re using, you can end up actually entering your data in a way that Excel will badly misinterpret.</p>
+fully aware of which format you’re using, you can end up actually entering your data in a way that Excel will badly misinterpret.
+	
 ---
+
 ## Exercise 3
 
 * What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? 
 * What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?
+
 ---
+
 ### Solution
 - Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.
 - Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>
