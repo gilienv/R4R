@@ -157,7 +157,9 @@ with numbers.</p>
 readability. Remember that abbreviations that make sense at the moment may not be so obvious in 6 months, but don’t overdo it with names
 that are excessively long. Including the units in the field names avoids confusion and enables others to readily interpret your fields.</p>
 
-<b>Examples</b> <table bgcolor="red"  align="left" style="width =50%; border: 1px green;">
+<b>Examples</b> 
+
+<table bgcolor="red"  align="left" style="width =50%; border: 1px green;">
 <tr>
 	<td> <b>Good Name</b></td> <br />
 	<td> <b>Good Alternative </b> </td><br />
@@ -255,9 +257,12 @@ all the files and folders in a project.</p>
 
 ## End of Lesson 
 
-| <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
+---
+
+| <a href="/Documents/Day02_Format.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day02_Dates.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
   | ---- | ----|    
   
+ ---
 Licensed under <a href="">CC-BY 4.0</a> 2018–2019 by <a href="https://carpentries.org/">The Carpentries</a>
         <br>
 Licensed under <a href="">CC-BY 4.0</a> 2016–2018 by <a href="http://datacarpentry.org">Data Carpentry</a>
