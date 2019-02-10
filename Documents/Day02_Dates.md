@@ -19,7 +19,7 @@
 ###### Additionally, Excel can <a href="https://nsaunders.wordpress.com/2012/10/22/gene-name-errors-and-excel-lessons-not-learned/">turn things that aren’t dates into dates</a>, for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding the date format overall, it’s easier to identify these issues
 
 
-
+---
 ## Exercise 1
 
 ### Challenge: pulling month, day and year out of dates</p>
@@ -30,11 +30,11 @@ There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
 <code class="highlighter-rouge">DAY()</code>
   * (Make sure the new column is formatted as a number and not as a date.)
   * You can see that even though you wanted the year to be 2014, your spreadsheet program automatically interpreted it as 2015, the year you entered the data.</p>
-
+---
 ### Solution
  <img src="/Images/solution_exercise_1_dates.png" alt="dates, exersize 1" />
 
-
+---
 ## Exercise 2
 
 ### Challenge: pulling hour, minute and second out of the current time</p>
@@ -47,7 +47,7 @@ date. The results will be formatted according to your computer’s settings.</p>
 2) Calculate the current time using <code class="highlighter-rouge">NOW()-TODAY()</code>
 3) Extract the hour, minute and second from the current time using functions <code class="highlighter-rouge">HOUR()</code>, <code class="highlighter-rouge">MINUTE()</code> and <code class="highlighter-rouge">SECOND()</code>.
 4) Press <code class="highlighter-rouge">F9</code> to force the spreadsheet to recalculate the <code class="highlighter-rouge">NOW()</code> function, and check that it has been updated.
-
+---
  ### Solution
 1) To get the year, type <code class="highlighter-rouge">=YEAR(NOW())</code> into any cell in your spreadsheet. To get the month, type <code class="highlighter-rouge">=MONTH(NOW())</code>. To get the day, type <code class="highlighter-rouge">=DAY(NOW())</code>.
 2) Typing <code class="highlighter-rouge">=NOW()-TODAY()</code> will result in a decimal value that is not easily human parsable to a clock-based time. You will need to use the strategies in the third part of this challenge to convert this decimal value to readable time.
@@ -114,12 +114,12 @@ the quantities to the correct entities.</p>
 <p>Which brings us to the many different ways Excel provides in how it displays dates. If you refer to the figure above, you’ll see that
 there are many ways that ambiguity creeps into your data depending on the format you chose when you enter your data, and if you’re not
 fully aware of which format you’re using, you can end up actually entering your data in a way that Excel will badly misinterpret.</p>
-
+---
 ## Exercise 3
 
 * What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? 
 * What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?
-
+---
 ### Solution
 - Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.
 - Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>
