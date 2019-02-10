@@ -12,26 +12,17 @@
 || Demonstrate best practices for entering dates in spreadsheets.|
 | Presenters | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
 
-* Dates in spreadsheets are stored in a single column. While this seems the
-most natural way to record dates, it actually is not best
-practice. A spreadsheet application will display the dates in a
-seemingly correct way (to a human observer) but how it actually handles
-and stores the dates may be problematic.</p>
+###### Dates in spreadsheets are stored in a single column. While this seems the most natural way to record dates, it actually is not best practice. A spreadsheet application will display the dates in a seemingly correct way (to a human observer) but how it actually handles and stores the dates may be problematic.
 
-* In particular, please remember that functions that are valid for a given
-spreadsheet program (be it LibreOffice, Microsoft Excel, OpenOffice,
-Gnumeric, etc.) are usually guaranteed to be compatible only within the same
-family of products. If you will later need to export the data and need to
-conserve the timestamps, you are better off handling them using one of the solutions discussed below.</p>
+###### In particular, please remember that functions that are valid for a given spreadsheet program (be it LibreOffice, Microsoft Excel, OpenOffice, Gnumeric, etc.) are usually guaranteed to be compatible only within the same family of products. If you will later need to export the data and need to conserve the timestamps, you are better off handling them using one of the solutions discussed below.
 
-* Additionally, Excel can <a href="https://nsaunders.wordpress.com/2012/10/22/gene-name-errors-and-excel-lessons-not-learned/">turn things that aren’t dates into dates</a>, 
-for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding the date format overall, it’s easier to identify these issues.</p>
+###### Additionally, Excel can <a href="https://nsaunders.wordpress.com/2012/10/22/gene-name-errors-and-excel-lessons-not-learned/">turn things that aren’t dates into dates</a>, for example names or identifiers like MAR1, DEC1, OCT4. So if you’re avoiding the date format overall, it’s easier to identify these issues
 
 
 
-![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE1)
+## Exercise 1
 
- ## Challenge: pulling month, day and year out of dates</p>
+### Challenge: pulling month, day and year out of dates</p>
 
   * In the <code class="highlighter-rouge">dates</code> tab of your spreadsheet you have the data from 2014 plot 3. 
 There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
@@ -40,12 +31,13 @@ There’s a <code class="highlighter-rouge">Date collected</code> column.</li>
   * (Make sure the new column is formatted as a number and not as a date.)
   * You can see that even though you wanted the year to be 2014, your spreadsheet program automatically interpreted it as 2015, the year you entered the data.</p>
 
-## Solution
+### Solution
  <img src="/Images/solution_exercise_1_dates.png" alt="dates, exersize 1" />
 
-![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE2)
 
-  ## Challenge: pulling hour, minute and second out of the current time</p>
+## Exercise 2
+
+### Challenge: pulling hour, minute and second out of the current time</p>
 
 Current time and date are best retrieved using the functions <code class="highlighter-rouge">NOW()</code>, which
 returns the current date and time, and <code class="highlighter-rouge">TODAY()</code>, which returns the current
@@ -56,7 +48,7 @@ date. The results will be formatted according to your computer’s settings.</p>
 3) Extract the hour, minute and second from the current time using functions <code class="highlighter-rouge">HOUR()</code>, <code class="highlighter-rouge">MINUTE()</code> and <code class="highlighter-rouge">SECOND()</code>.
 4) Press <code class="highlighter-rouge">F9</code> to force the spreadsheet to recalculate the <code class="highlighter-rouge">NOW()</code> function, and check that it has been updated.
 
-  ## Solution
+ ### Solution
 1) To get the year, type <code class="highlighter-rouge">=YEAR(NOW())</code> into any cell in your spreadsheet. To get the month, type <code class="highlighter-rouge">=MONTH(NOW())</code>. To get the day, type <code class="highlighter-rouge">=DAY(NOW())</code>.
 2) Typing <code class="highlighter-rouge">=NOW()-TODAY()</code> will result in a decimal value that is not easily human parsable to a clock-based time. You will need to use the strategies in the third part of this challenge to convert this decimal value to readable time.
 3) To extract the hour, type <code class="highlighter-rouge">=HOUR(NOW()-TODAY())</code> and similarly for minute and second
@@ -123,12 +115,12 @@ the quantities to the correct entities.</p>
 there are many ways that ambiguity creeps into your data depending on the format you chose when you enter your data, and if you’re not
 fully aware of which format you’re using, you can end up actually entering your data in a way that Excel will badly misinterpret.</p>
 
-![Status: **EXERCISE**](http://placehold.it/750x55/FF8C00/000000.png&text=EXERCISE3)
+## Exercise 3
 
 * What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in <code class="highlighter-rouge">csv</code> format) and then open the file in a plain text editor (like TextEdit or Notepad)? 
 * What happens to the dates if we then open the <code class="highlighter-rouge">csv</code> file in Excel?
 
-## Solution
+### Solution
 - Click to the “dates” tab of the workbook and double-click on any of the values in the <code class="highlighter-rouge">Date collected</code> column. Notice that the dates display with the year 2015.
 - Select <code class="highlighter-rouge">File -&gt; Save As</code> in Excel and in the drop down menu for file format select <code class="highlighter-rouge">CSV UTF-8 (Comma delimited) (.csv)</code>. Click <code class="highlighter-rouge">Save</code>
 - You will see a pop-up that says “This workbook cannot be saved in the selected file format because it contains multiple sheets.” Choose <code class="highlighter-rouge">Save Active Sheet</code>.
@@ -197,7 +189,7 @@ software.</p>
 - Treating dates as multiple pieces of data rather than one makes them easier to handle.
 ---
 
-| <a href="Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day03.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="Documents/Day02_Sol2.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Solutions To Exercises</span></a> 
+| <a href="/Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day03.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="/Documents/Day02_Sol2.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Solutions To Exercises</span></a> 
   | ---- | ----|---- | 
   
 ---
