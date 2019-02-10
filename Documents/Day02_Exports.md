@@ -110,7 +110,8 @@ and then create a file <code class="highlighter-rouge">.gitattributes</code> tha
 ###### - some of these only work on Windows
 ###### - this equates to replacing a (simple but manual) export to <code class="highlighter-rouge">csv</code> with additional complexity/dependencies in the data analysis R code
 ###### - data formatting best practice still apply
-####### Is there really a good reason why <code class="highlighter-rouge">csv</code> (or similar) is not adequate?</li>
+
+##### Is there really a good reason why <code class="highlighter-rouge">csv</code> (or similar) is not adequate?</li>
 </ul>
 
 ## Caveats on commas
@@ -118,7 +119,7 @@ and then create a file <code class="highlighter-rouge">.gitattributes</code> tha
 ##### In some datasets, the data values themselves may include commas (,). In that case, the software which you use (including Excel) will most likely incorrectly display the data in columns. This is because the commas which are a part of the data values will be interpreted as delimiters.
 
 ###### If you are working with data that contains commas, you likely will need to use another delimiter when working in a spreadsheet. In this case, consider using tabs as your delimiter and working with TSV files. TSV files can be exported from spreadsheet programs in the same way as CSV files. 
-##### For more of a discussion on data formats and potential issues with commas within datasets see <a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/discuss/">the discussion page</a>.</p>
+##### NOTE: For more of a discussion on data formats and potential issues with commas within datasets see <a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/discuss/">the discussion page</a>.</p>
 
 
 
