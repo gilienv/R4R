@@ -67,12 +67,11 @@ Participants are also required to abide by Data Carpentry's
 <img src=/Images/Day03.png alt=overview width=800 />
 
 
-
-<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1 ( mins)</a>
-
-
 <h3>Day 2</h3>
 
+
+
+<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1 ( mins)</a>
 
 <h4>Data analysis with R</h4>
 
