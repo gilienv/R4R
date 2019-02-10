@@ -22,19 +22,15 @@
 ###### Likewise if one of the kinds of data being collected is a count, only integers greater than or equal to zero should be allowed.</p>
 
 ###### To control the kind of data entered into a a spreadsheet we use Data Validation (Excel) or Validity (Libre Office Calc), to set the values that can be entered in each data column.</p>
-... 1. Select the cells or column you want to validate..
-2. On the <code class="highlighter-rouge">Data</code> tab select <code class="highlighter-rouge">Data Validation</code></p>
+###### 1. Select the cells or column you want to validate..
+###### 2. On the <code class="highlighter-rouge">Data</code> tab select <code class="highlighter-rouge">Data Validation</code>
 <img src="/Images/data_validation.png" alt="Image of Data Validation button on Data tab" />..
-3. In the <code class="highlighter-rouge">Allow</code> box select the kind of data that should be in the
-   column. Options include whole numbers, decimals, lists of items, dates, and
-   other values.</p>..
+###### In the <code class="highlighter-rouge">Allow</code> box select the kind of data that should be in the column. Options include whole numbers, decimals, lists of items, dates, and other values.</p>..
 <img src="/Images/data_validation_window.png" alt="Image of Data Validation window" />
-4. After selecting an item enter any additional details. For example, if you’ve
-   chosen a list of values, enter a comma-delimited list of allowable
-   values in the <code class="highlighter-rouge">Source</code> box.</p>
+###### 4. After selecting an item enter any additional details. For example, if you’ve chosen a list of values, enter a comma-delimited list of allowable values in the <code class="highlighter-rouge">Source</code> box.</p>
 
 
-###### Let’s try this out by setting the plot column in our spreadsheet to only allow plot values that are integers between 1 and 24.</p>
+###### *Let’s try this out by setting the plot column in our spreadsheet to only allow plot values that are integers between 1 and 24.</p>
 
 <ol>
   <li>Select the <code class="highlighter-rouge">plot_id</code> column</li>
@@ -69,7 +65,8 @@
 
 ###### As you start manipulating your data files, create a readMe document / text file to keep track of your files and document your manipulations so that they may be easily understood and replicated, either by your future self or by an independent researcher. 
 ###### Your readMe file should document all of the files in your data set (including documentation), describe their content and format, and lay out the organizing principles of folders and subfolders. 
-###### For each of the separate files listed, it is a good idea to document the manipulations or analyses that were carried out on those data.<a href="https://data.research.cornell.edu/content/readme">Cornell University’s Research Data Management Service Group</a> provides detailed guidelines for how to write a good readMe file, along with an adaptable template.</p>
+###### For each of the separate files listed, it is a good idea to document the manipulations or analyses that were carried out on those data.
+###### <a href="https://data.research.cornell.edu/content/readme">Cornell University’s Research Data Management Service Group</a> provides detailed guidelines for how to write a good readMe file, along with an adaptable template.</p>
 
 ## Sorting
 
@@ -77,7 +74,7 @@
 ###### For example, if your data should be numeric, then alphabetical and null data will group at the ends of the sorted data. Sort your data by each field, one at a time. Scan through each column, but pay the most attention to the top and the bottom of a column. 
 ###### If your dataset is well-structured and does not contain formulas, sorting should never affect the integrity of your dataset
 
-**Remember to expand your sort in order to prevent data corruption. Expanding your sort ensures that the all the data in one row move together instead of only sorting a single column in isolation. Sorting by only a single column will scramble your data - a single row will no longer represent an individual observation**
+###### *Remember to expand your sort in order to prevent data corruption. Expanding your sort ensures that the all the data in one row move together instead of only sorting a single column in isolation. Sorting by only a single column will scramble your data - a single row will no longer represent an individual observation**
 
 ## Exercise
 
@@ -89,10 +86,9 @@
  ## Solution
  
 ###### Click the Sort button on the data tab in Excel. A pop-up will appear. Make sure you select <code class="highlighter-rouge">Expand the selection</code>.</p>
-
  <p class="output"><img src="/Images/sorting_button.png" alt="quality_control0, exercise1" /></p>
 
- ###### The following window will display, choose the column you want to sort as well as the sort order.</p>
+###### The following window will display, choose the column you want to sort as well as the sort order.</p>
 
 <p class="output"><img src="/Images/sorting_example.png" alt="quality_control1, exercise1" /></p>
 
