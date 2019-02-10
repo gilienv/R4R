@@ -19,6 +19,8 @@ We will have Round Table Introductions for everyone to introduce themselves and 
 ## Detailed Agenda:
 <img src = /Images/Day01.png>
 
+     
+## End of Day 01
 ---
 
 | <a href="/Readme.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Main Menu R4R </span></a> | <a href="/Documents/Day02.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Day</span></a> | 
