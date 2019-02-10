@@ -131,7 +131,7 @@ Data files for the lesson are available
       
 ## End of Basic Course
 
-Markdown | Less | Pretty
+<a href="../Readme.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Main Menu R4R </span></a> | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
