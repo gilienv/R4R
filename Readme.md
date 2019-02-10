@@ -9,7 +9,7 @@
 
 * The Program Banner is <a href=/Images/Rollerbanner.jpg>here</a>
 
-* Please use our Hashtags #R4R and #TIGR2ESS when you post about the events!
+* Please use our Hashtags <code>#R4R</code> and #TIGR2ESS when you post about the events!
 
 ## Course Pages
 <a href=/Documents/Day01.md> Day 01 </a> : Evening Meet & Greet. Dinner
