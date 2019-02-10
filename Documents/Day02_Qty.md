@@ -25,8 +25,9 @@
 ###### 1. Select the cells or column you want to validate..
 ###### 2. On the <code class="highlighter-rouge">Data</code> tab select <code class="highlighter-rouge">Data Validation</code>
 <img src="/Images/data_validation.png" alt="Image of Data Validation button on Data tab" />..
-###### In the <code class="highlighter-rouge">Allow</code> box select the kind of data that should be in the column. Options include whole numbers, decimals, lists of items, dates, and other values.</p>..
+###### 3. In the <code class="highlighter-rouge">Allow</code> box select the kind of data that should be in the column. Options include whole numbers, decimals, lists of items, dates, and other values.</p>
 <img src="/Images/data_validation_window.png" alt="Image of Data Validation window" />
+
 ###### 4. After selecting an item enter any additional details. For example, if you’ve chosen a list of values, enter a comma-delimited list of allowable values in the <code class="highlighter-rouge">Source</code> box.</p>
 
 
