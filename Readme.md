@@ -85,7 +85,7 @@ More Information <a href=/Images/Shabnamposter.pdf>Here</a>.
 ### 28th Feb, 2pm
 Career Development Workshop for Early Career Researchers | IHC | High Tea Included
 
-<a href=https://in.linkedin.com/in/savita-ayyar-91a20241>Dr Savita Ayyar</a> is a Research Management professional and consultant with over ten years of experience in diverse areas of the field. She will join TIGR2ESS Program Managers <a href=https://www.plantsci.cam.ac.uk/directory/eichenberger-rose>Rose Eicheberger</a> and Aakriti Wanchoo to conduct a career crafting skills workshop on the afternoon of Feb 28, 2019.
+<a href=https://in.linkedin.com/in/savita-ayyar-91a20241>Dr Savita Ayyar</a> is a Research Management professional and consultant with over ten years of experience in diverse areas of the field. She will join TIGR2ESS Program Managers <a href=https://www.plantsci.cam.ac.uk/directory/eichenberger-rose>Rose Eicheberger</a> and <a href=https://in.linkedin.com/in/aakriti-wanchoo-206205a6>Aakriti Wanchoo</a> to conduct a career crafting skills workshop on the afternoon of Feb 28, 2019.
 
 More Information Here.
 
