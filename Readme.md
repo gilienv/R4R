@@ -70,7 +70,10 @@ Informal Social Evening - Meet & Greet | NIPGR| Dinner included
 ### 25th Feb, 7pm 
 Photography & Sustainability (Toby Smith & Gitanjali Yadav) | India Habitat Centre Amphitheatre 
 
-More Information Here
+<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr. Gitanjali Yadav</a> will join Photojurnalist <a href=https://www.tobysmith.com/>Toby Smith</a> the <a href=http://www.habitatphotosphere.com/>IHC PhotoSphere</a> to talk about < href=https://www.globalfood.cam.ac.uk/keyprogs/TIGR2ESS>Tigr2ess</a>, a major international program on sustainable food production and resource use in India, while Smith will share compelling imagery and narratives from both the research and field sites. The Photosphere is the first biennial photo-festival in the world that brings together spheres of photography and sustainability through mentorship, exhibitions, workshops and talks! 
+Event is Public and Free to attend, all are welcome.
+
+More Information <a href=Images/Photosphere_HiRes.jpg>Here</a>
 
 ### 26th Feb, 5pm
 Cultural Evening: Kabir & Other Mystics (Shabnam Virmani) | NIPGR | Dinner included 
