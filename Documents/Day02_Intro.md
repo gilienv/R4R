@@ -140,116 +140,22 @@ to be the program most used by biologists and ecologists.</p>
 <ol>
   <li><a href="/Documents/Day02_Format.md">Formatting data tables in spreadsheets</a></li>
   <li><a href="/Documents/Day02_Problems.md">Formatting problems</a></li>
-  <li><a href="/Documents/Day02.Dates.md">Dates as data</a></li>
+  <li><a href="/Documents/Day02_Dates.md">Dates as data</a></li>
   <li><a href="/Documents/Day02_Qty.md">Quality control</a></li>
   <li><a href="/Documents/Day02_Exports.md/">Exporting data</a></li>
 </ol>
 
 
 
-<blockquote class="keypoints">
-  <h2>Key Points</h2>
-  <ul>
-    
-    <li><p>Good data organization is the foundation of any research project.</p>
-</li>
-    
-  </ul>
-</blockquote>
+## Key Points
+- Good data organization is the foundation of any research project..
 
-</article>
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-xs-1">
-    <h3 class="text-left">
-      
-      <a href="../"><span class="glyphicon glyphicon-menu-up" aria-hidden="true"></span><span class="sr-only">lesson home</span></a>
-      
-    </h3>
-  </div>
-  <div class="col-xs-10">
-    
-  </div>
-  <div class="col-xs-1">
-    <h3 class="text-right">
-      
-      <a href="../01-format-data/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">next episode</span></a>
-      
-    </h3>
-  </div>
-</div>
-
-
-      
-      
-
-
-
-
-
-
-<footer>
-  <div class="row">
-    <div class="col-md-6 copyright" align="left">
-	
-	Licensed under <a href="">CC-BY 4.0</a> 2018–2019
-	by <a href="https://carpentries.org/">The Carpentries</a>
+| <a href="/Documents/Day02.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day02_Format.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
+  | ---- | ----|    
+  
+  ---
+Licensed under <a href="">CC-BY 4.0</a> 2018–2019 by <a href="https://carpentries.org/">The Carpentries</a>
         <br>
-        Licensed under <a href="">CC-BY 4.0</a> 2016–2018
-	by <a href="http://datacarpentry.org">Data Carpentry</a>
-	
-    </div>
-    <div class="col-md-6 help-links" align="right">
-	
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/edit/gh-pages/_episodes/00-intro.md">Edit on GitHub</a>
-	
-	/
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
-	/
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/">Source</a>
-	/
-	<a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/blob/gh-pages/CITATION">Cite</a>
-	/
-	<a href="mailto:team@carpentries.org">Contact</a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12" align="center">
-      Using <a href="https://github.com/carpentries/styles/">The Carpentries style</a>
-      version <a href="https://github.com/carpentries/styles/releases/tag/v9.5.3">9.5.3</a>.
-    </div>
-  </div>
-</footer>
-
-      
-    </div>
-    
-<script src="../assets/js/jquery.min.js"></script>
-<script src="../assets/js/bootstrap.min.js"></script>
-<script src="../assets/js/lesson.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-37305346-2', 'auto');
-  ga('send', 'pageview');
-</script>
-
-  </body>
-</html>
+Licensed under <a href="">CC-BY 4.0</a> 2016–2018 by <a href="http://datacarpentry.org">Data Carpentry</a>
