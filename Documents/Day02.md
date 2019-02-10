@@ -26,8 +26,10 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
   <a href="http://datacarpentry.org">Data Carpentry</a>
   workshops are for any researcher who has data they want to analyze, 
   and no prior computational experience is required. 
-  This hands-on workshop module is a slight modification of the Data Carpentry Course at CRUK, University of Cambridge, and we hope to teache basic concepts, skills and tools for working more effectively with data.
-  We will cover Data organization in spreadsheets, and learn how to use the statistical program R.
+  
+ ###### This hands-on workshop module under the <a href=/Images/Rollerbanner.jpg>TIGR2ESS R4R workshop</a> is a slight modification of the Data Carpentry Course at CRUK, University of Cambridge, and we hope to teach basic concepts, skills and tools for working more effectively with data.
+  
+  ###### We will cover Data organization in spreadsheets, and learn how to use the statistical program R.
   
   Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
