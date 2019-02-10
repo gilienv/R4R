@@ -159,6 +159,17 @@ that are excessively long. Including the units in the field names avoids confusi
 
 <b>Examples</b> 
 
+|Good Name	| Good Alternative	| Avoid
+|---- | --- | --- | 
+|Max_temp_C	| MaxTemp	| Maximum Temp (°C)
+| Precipitation_mm	| Precipitation	| precmm
+| Mean_year_growth	| MeanYearGrowth	| Mean growth/year
+| sex	| sex	| M/F
+| weight	| weight	| w.
+| cell_type	| CellType	| Cell Type
+| Observation_01	| first_observation	| 1st Obs
+| ---- | ----|  --- |
+
 <table bgcolor="red"  align="left" style="width =50%; border: 1px green;">
 <tr>
 	<td> <b>Good Name</b></td> <br />
