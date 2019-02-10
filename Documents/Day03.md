@@ -65,3 +65,43 @@ Participants are also required to abide by Data Carpentry's
 ### Schedule
 
 <img src=/Images/Day03.png alt=overview width=800 />
+
+
+
+<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1 ( mins)</a>
+
+
+<h3>Day 2</h3>
+
+
+<h4>Data analysis with R</h4>
+
+<ol>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> ( mins)</li>
+</ol>
+
+<p>
+  <h2>CSV data files for the final part of Database lesson are available from  
+	  <a href="https://github.com/datacarpentry/ecology-workshop/blob/master/data.md">here</a></h2>.
+</p>
+
+Learn more about SQL from the 
+<a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
+
+<p><b> Should you finish earlier than others and want some more challenges please have a go.  
+ at this material from the R Software Carpentry course (They could also be done    
+ post-course as a revision exercise):</b>   
+<a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials</a>
+
+<p><u>Useful reference sheets</u>
+<ol>
+<li><a href="https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf">Base R cheatsheet</a></li>
+<li><a href="https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf">Dplyr cheatsheet</a></li>
+<li><a href="https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf">ggplot2 cheatsheet</a></li>
+<li><a href="http://datacamp-community.s3.amazonaws.com/076cc4b0-6e77-4c75-b369-e60d1434817c">Tidyverse cheatsheet</a></li>
+	<li><a href="https://github.com/gadenbuie/tidyexplain">Animations of joins, spread &amp; gather</a></li>
+</ol>
+</p>
+
