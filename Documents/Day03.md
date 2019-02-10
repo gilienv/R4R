@@ -49,3 +49,17 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
 </ol>
 </p>
 
+     
+## End of Day 03
+---
+<a href="../Readme.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Main Menu R4R </span></a> | <a href="/Documents/Day02.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Previous Day</span></a> | <a href="/Documents/Day04.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Day</span></a>
+--- | --- | ---
+
+
+---
+
+
+## Copyright &copy; 2016	
+<a href="https://software-carpentry.org">Software Carpentry Foundation</a>
+	<a href="mailto:lessons@software-carpentry.org">[Contact]</a>
+     
