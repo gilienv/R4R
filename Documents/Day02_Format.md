@@ -121,13 +121,6 @@ start analyzing the data.</li>
 	- Important:  Do not forget our first piece of advice: to create a new file (or tab) for the cleaned data, never modify your original (raw) data.
 	- After you go through this exercise, we’ll discuss as a group what was wrong with this data and how you would fix it.</p>
 
-## Solution
-    
-   - Take about 10 minutes to work on this exercise
-   - All the mistakes in <a href="../02-common-mistakes">02-common-mistakes</a> are present in the messy dataset. 
-   - Ask people what they saw as wrong with the data. As they bring up different points, you can refer to <a href="../02-common-mistakes">02-common-mistakes</a> or expand a bit on the point they brought up.
-   - If you get a response where they’ve fixed the date, you can pause and go to the <a href="../03-dates-as-data">03-dates-as-data</a> lesson. Or you can say you’ll come back to dates at the end.
- 
 
 ## Reference
 * An excellent reference, in particular with regard to R scripting is Hadley Wickham, <em>Tidy Data</em>, Vol. 59, Issue 10, Sep 2014, Journal of Statistical Software. <a href="http://www.jstatsoft.org/v59/i10">http://www.jstatsoft.org/v59/i10</a>
@@ -138,9 +131,12 @@ start analyzing the data.</li>
 - Keep track of all of the steps you take to clean your data in a plain text file.
 - Organize your data according to tidy data principles.
 
+---
+
 | <a href="/Documents/Day02_Intro.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="/Documents/Day02_Sol1.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Solution to Exercise</span></a> 
   | ---- | ----| ----| 
   
+---
 Licensed under <a href="">CC-BY 4.0</a> 2018–2019 by <a href="https://carpentries.org/">The Carpentries</a>
         <br>
 Licensed under <a href="">CC-BY 4.0</a> 2016–2018 by <a href="http://datacarpentry.org">Data Carpentry</a>
