@@ -2,7 +2,7 @@
 
 ## Exercise Solution for Lesson: "Formatting data tables in Spreadsheets"
  
- ## Exercise
+### Exercise
 - We’re going to take a messy version of the survey data and describe how we would clean it up.
 	- Download the data by clicking <a href="https://ndownloader.figshare.com/files/2252083">here</a> to get it from FigShare.
 	- Open up the data in a spreadsheet program.</li>
@@ -12,17 +12,19 @@ start analyzing the data.</li>
 	- Important:  Do not forget our first piece of advice: to create a new file (or tab) for the cleaned data, never modify your original (raw) data.
 	- After you go through this exercise, we’ll discuss as a group what was wrong with this data and how you would fix it.</p>
 
-## Solution
+### Solution
     
    - Take about 10 minutes to work on this exercise
    - All the mistakes in <a href="../02-common-mistakes">02-common-mistakes</a> are present in the messy dataset. 
    - Ask people what they saw as wrong with the data. As they bring up different points, you can refer to <a href="../02-common-mistakes">02-common-mistakes</a> or expand a bit on the point they brought up.
    - If you get a response where they’ve fixed the date, you can pause and go to the <a href="../03-dates-as-data">03-dates-as-data</a> lesson. Or you can say you’ll come back to dates at the end.
  
+---
 
-| <a href="/Documents/Day02_Intro.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="/Documents/Day02_Sol1.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Solution to Exercise</span></a> 
-  | ---- | ----| ----| 
+| <a href="/Documents/Day02_Format.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Lesson</span></a> | <a href="/Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> 
+  | ---- | ----| 
   
+  ---
 Licensed under <a href="">CC-BY 4.0</a> 2018–2019 by <a href="https://carpentries.org/">The Carpentries</a>
         <br>
 Licensed under <a href="">CC-BY 4.0</a> 2016–2018 by <a href="http://datacarpentry.org">Data Carpentry</a>
