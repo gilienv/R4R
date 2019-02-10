@@ -56,9 +56,12 @@ date. The results will be formatted according to your computer’s settings.</p>
 
 * It is much safer to store dates with <a href="#day">YEAR, MONTH, DAY</a> in separate columns or as <a href="#doy">YEAR and DAY-OF-YEAR</a> in separate columns.</p>
 
-<p><strong>Note</strong>: Excel is unable to parse dates from before 1899-12-31, and will thus leave these untouched.  If you’re mixing historic data
+
+<blockquote>
+  <p>Note: Excel is unable to parse dates from before 1899-12-31, and will thus leave these untouched.  If you’re mixing historic data
 from before and after this date, Excel will translate only the post-1900 dates into its internal format, thus resulting in mixed data.
 If you’re working with historic data, be extremely careful with your dates!</p>
+</blockquote>
 
 <p>Excel also entertains a second date system, the 1904 date system, as the default in Excel for Macintosh. This system will assign a
 different serial number than the <a href="https://support.microsoft.com/en-us/help/214330/differences-between-the-1900-and-the-1904-date-system-in-excel">1900 date system</a>. Because of this,
