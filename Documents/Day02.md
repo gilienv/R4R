@@ -130,7 +130,7 @@ Data files for the lesson are available
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>
       
 ## End of Basic Course
-1 | 2 | 3
+
 <a href="../Readme.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Main Menu R4R </span></a> | <a href="/Documents/Day01.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Previous Day</span></a> | <a href="/Documents/Day03.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Day</span></a>
 --- | --- | ---
 *Still* | `renders` | **nicely**
