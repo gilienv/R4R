@@ -81,7 +81,7 @@ Data files for the lesson are available
   <li><a href=/Documents/Day02_Exports.md>Exporting data</a> (10 mins)</li>
 </ol>
 
-## Data analysis with R ( )
+## DATA ANALYSIS WITH R ( )
 
 <ol>
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a> </li>
