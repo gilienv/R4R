@@ -127,8 +127,10 @@ Data files for the lesson are available
         you can use your package manager (e.g. for Debian/Ubuntu
         run <code>sudo apt-get install r-base</code> and for Fedora run
         <code>sudo dnf install R</code>).  Also, please install the
-        <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
+        <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>
       
+---
+| | | | 
 ---
 |<a href="../Readme.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Main Menu R4R </span></a> | <a href="/Documents/Day01.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Previous Day</span></a> | <a href="/Documents/Day03.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Day</span></a> |
 ---
