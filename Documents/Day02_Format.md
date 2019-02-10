@@ -9,7 +9,7 @@
 | Exercises | 20 minutes | 
 | Question| How do we format data in spreadsheets for effective data use? |
 | Objective | Describe best practices for data entry and formatting in spreadsheets |
-| Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
+| Presenters | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
  
 * The most common mistake made is treating spreadsheet programs like lab notebooks, that is,
 relying on context, notes in the margin,
