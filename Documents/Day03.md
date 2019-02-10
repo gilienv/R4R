@@ -29,9 +29,9 @@ Casuarina Hall <a href = https://www.indiahabitat.org/>India Habitat Centre, New
 ### Part 2: Data analysis with R
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> ( mins)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> ( mins)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a></li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a></li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a></li>
 </ol>
 
 #### CSV data files for the final part of Database lesson are available from <a href="https://github.com/datacarpentry/ecology-workshop/blob/master/data.md">here</a></h2>
