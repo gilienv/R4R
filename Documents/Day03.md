@@ -81,15 +81,11 @@ Participants are also required to abide by Data Carpentry's
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> ( mins)</li>
 </ol>
 
-#### CSV data files for the final part of Database lesson are available from  
- <a href="https://github.com/datacarpentry/ecology-workshop/blob/master/data.md">here</a></h2>.
-</p>
+#### CSV data files for the final part of Database lesson are available from <a href="https://github.com/datacarpentry/ecology-workshop/blob/master/data.md">here</a></h2>.
 
-#### Learn more about SQL from the 
-<a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
+#### Learn more about SQL from the <a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
 
-###### Should you finish earlier than others and want some more challenges please have a go at this material from the R Software Carpentry course (They could also be done post-course as a revision exercise):</b>   
-<a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials</a>
+###### Should you finish earlier than others and want some more challenges please have a go at this material from the R Software Carpentry course (They could also be done post-course as a revision exercise):</b> <a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials</a>
 
 ## Useful reference sheets
 <ol>
