@@ -59,9 +59,7 @@
 
 ## Quality Control
 
-###### **Tip: *Before doing any quality control operations, save your original file with the formulas and a name indicating it is the original data. 
-###### Create a separate file with appropriate naming and versioning, and ensure your data is stored as values and not as formulas. 
-###### Because formulas refer to other cells, and you may be moving cells around, you may compromise the integrity of your data if you do not take this step!*
+###### **Tip: *Before doing any quality control operations, save your original file with the formulas and a name indicating it is the original data. Create a separate file with appropriate naming and versioning, and ensure your data is stored as values and not as formulas. Because formulas refer to other cells, and you may be moving cells around, you may compromise the integrity of your data if you do not take this step!*
 
 ## readMe (README) files
 
