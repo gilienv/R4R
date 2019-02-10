@@ -61,14 +61,14 @@
 
 ###### **Tip: *Before doing any quality control operations, save your original file with the formulas and a name indicating it is the original data. Create a separate file with appropriate naming and versioning, and ensure your data is stored as values and not as formulas. Because formulas refer to other cells, and you may be moving cells around, you may compromise the integrity of your data if you do not take this step!*
 
-## readMe (README) files
+### readMe (README) files
 
 ###### As you start manipulating your data files, create a readMe document / text file to keep track of your files and document your manipulations so that they may be easily understood and replicated, either by your future self or by an independent researcher. 
 ###### Your readMe file should document all of the files in your data set (including documentation), describe their content and format, and lay out the organizing principles of folders and subfolders. 
 ###### For each of the separate files listed, it is a good idea to document the manipulations or analyses that were carried out on those data.
 ###### <a href="https://data.research.cornell.edu/content/readme">Cornell University’s Research Data Management Service Group</a> provides detailed guidelines for how to write a good readMe file, along with an adaptable template.</p>
 
-## Sorting
+### Sorting
 
 ###### Bad values often sort to the bottom or top of the column. 
 ###### For example, if your data should be numeric, then alphabetical and null data will group at the ends of the sorted data. Sort your data by each field, one at a time. Scan through each column, but pay the most attention to the top and the bottom of a column. 
@@ -76,14 +76,14 @@
 
 ###### ** *Remember to expand your sort in order to prevent data corruption. Expanding your sort ensures that the all the data in one row move together instead of only sorting a single column in isolation. Sorting by only a single column will scramble your data - a single row will no longer represent an individual observation*
 
-## Exercise
+### Exercise
 
 ###### We’ve combined all of the tables from the messy data into a single table in a single tab. Download this semi-cleaned data file to your computer: <a href="https://github.com/datacarpentry/spreadsheet-ecology-lesson/blob/gh-pages/data/survey_sorting_exercise.xlsx?raw=true">survey_sorting_exercise</a></p>
 
 ###### Once downloaded, sort the <code class="highlighter-rouge">Weight_grams</code> column in your spreadsheet program from <code class="highlighter-rouge">Largest to Smallest</code>.</p>
 ###### What do you notice?</p>
 
- ## Solution
+ ### Solution
  
 ###### Click the Sort button on the data tab in Excel. A pop-up will appear. Make sure you select <code class="highlighter-rouge">Expand the selection</code>.</p>
  <p class="output"><img src="/Images/sorting_button.png" alt="quality_control0, exercise1" /></p>
