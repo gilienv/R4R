@@ -9,7 +9,7 @@
 | Exercises | 0 minutes | 
 | Question| What are some common challenges with formatting data in spreadsheets and how can we avoid them? |
 | Objective | Recognize and resolve common spreadsheet formatting problems. |
-| Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
+| Presenters | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
 
 * Good data organization is the foundation of your research
 project. Most researchers have data or do data entry in
