@@ -197,7 +197,7 @@ software.</p>
 - Treating dates as multiple pieces of data rather than one makes them easier to handle.
 ---
 
-| <a href="Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day03.md""><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="Documents/Day02_Sol2.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> 
+| <a href="Documents/Day02_Problems.md"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="/Documents/Day03.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | <a href="Documents/Day02_Sol2.md"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Solutions To Exercises</span></a> 
   | ---- | ----|---- | 
   
 ---
