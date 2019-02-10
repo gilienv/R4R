@@ -85,7 +85,10 @@ Data files for the lesson are available
 ###### To interact with R, we use <a href="http://www.rstudio.com/">RStudio</a>
 
 ### Windows 
-###### <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a> Install R by downloading and running <a href="http://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a> from <a href="http://cran.r-project.org/index.html">CRAN</a> Also, please install the <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
+###### <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">See Video Tutorial</a> 
+###### Install R by downloading and running <a href="http://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a> from <a href="http://cran.r-project.org/index.html">CRAN</a> 
+###### Also, please install the <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>
+
 ###### [Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.]
  ### MacOS
  ###### <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">See Video Tutorial</a> 
