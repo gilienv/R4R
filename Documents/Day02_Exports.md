@@ -12,14 +12,8 @@
 | | Export data from a spreadsheet to a CSV file.| 
 | Authors | [Gitanjali Yadav](http://www.nipgr.res.in/research/dr_gyadav.php) and [Ashley Sawle](https://www.cruk.cam.ac.uk/author/ashley-sawle) | 
 
-* Good data organization is the foundation of your research
-project. Most researchers have data or do data entry in
-spreadsheets. Spreadsheet programs are very useful graphical
-interfaces for designing data tables and handling very basic data
-quality control functions. 
 
-
-###### Q: Storing the data you’re going to work with for your analyses in Excel default file format (<code class="highlighter rouge">*.xls</code> or <code class="highlighter-rouge">*.xlsx</code> - depending on the Excel version) isn’t a good idea. Why
+##### Q: Storing the data you’re going to work with for your analyses in Excel default file format (<code class="highlighter rouge">*.xls</code> or <code class="highlighter-rouge">*.xlsx</code> - depending on the Excel version) isn’t a good idea. Why
 
 ###### - Because it is a proprietary format, and it is possible that in the future, technology won’t exist (or will become sufficiently rare) to make it inconvenient, if not impossible, to open the file.
  
@@ -29,10 +23,10 @@ quality control functions.
   
 ###### - Finally, more journals and grant agencies are requiring you to deposit your data in a data repository, and most of them don’t accept Excel format. It needs to be in one of the formats discussed below.</p>
  
-###### *The above points also apply to other formats such as open data formats used by LibreOffice / Open Office. These formats are not static and do not get parsed the same way by different software packages.*
+##### *The above points also apply to other formats such as open data formats used by LibreOffice / Open Office. These formats are not static and do not get parsed the same way by different software packages.*
  
 
-###### As an example of inconsistencies in data storage, do you remember how we talked about how Excel stores dates earlier? ###### It turns out that  there are multiple defaults for different versions of the software, and you can switch between them all. 
+##### As an example of inconsistencies in data storage, do you remember how we talked about how Excel stores dates earlier? ###### It turns out that  there are multiple defaults for different versions of the software, and you can switch between them all. 
 ###### So, say you’re compiling Excel-stored data from multiple sources. There’s dates in each file- Excel interprets them as their own internally consistent serial numbers. When you combine the data, Excel will take the serial number from the place you’re importing it from, and interpret it using the rule set for the version of Excel you’re using. Essentially, you could be adding errors to your data, and it wouldn’t necessarily be flagged by any data cleaning methods if your ranges overlap.</p>
 
 ###### Storing data in a universal, open, and static format will help deal with this problem. Try tab-delimited (tab separated values or TSV) or comma-delimited (comma separated values or CSV). CSV files are plain text files where the columns are separated by commas, hence ‘comma separated values’ or CSV. The advantage of a CSV file over an Excel/SPSS/etc. file is that we can open and read a CSV file using just about any software, including plain text editors like TextEdit or NotePad. 
