@@ -124,6 +124,8 @@
 ###### - Use sorting to check for invalid data.</p>
 ###### - Use conditional formatting (cautiously) to check for invalid data.</p>
 
+---
+
 | <a href="../00-intro/index.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="sr-only">Back To Previous Lesson</span></a> | <a href="../02-common-mistakes/index.html"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><span class="sr-only">Go To Next Lesson</span></a> | 
   | ---- | ----|    
   
