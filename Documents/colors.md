@@ -1,6 +1,7 @@
 # Github Language Colors
 
 [![](./svgs/1C-Enterprise.svg)](https://github.com/trending?l=1C%20Enterprise)
+
 [![](./svgs/ABAP.svg)](https://github.com/trending?l=ABAP)
 [![](./svgs/AGS-Script.svg)](https://github.com/trending?l=AGS%20Script)
 [![](./svgs/AMPL.svg)](https://github.com/trending?l=AMPL)
