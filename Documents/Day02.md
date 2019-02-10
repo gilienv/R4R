@@ -129,6 +129,8 @@ Data files for the lesson are available
         <code>sudo dnf install R</code>).  Also, please install the
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>
       
+## End of Basic Course
+
 |a|b|c|d|
 ---
 |a|b|c|d|
