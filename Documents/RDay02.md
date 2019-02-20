@@ -1,6 +1,8 @@
 
 ## Installation of dplyr & tidyverse
 
+Launch R Studio
+
 <code>$ install.packages("devtools")</code>
 
 <code>$ install.packages("dplyr", dependencies=TRUE)</code>
