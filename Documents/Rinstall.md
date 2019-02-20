@@ -25,6 +25,6 @@
   ###### Or you can use your package manager:
   ###### (e.g. for Debian/Ubuntu run <code>sudo apt-get install r-base</code> 
   ###### and 
-  ###### for Fedora run <code>sudo dnf install R</code>).  
+  ###### for Fedora run <code>sudo dnf install R</code>.  
   ###### Also, please install the <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>
       
