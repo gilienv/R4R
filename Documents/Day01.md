@@ -29,7 +29,7 @@ For Specific Packages in R, Click <a href=/Documents/RDay02.md>here</a>
 
 If you need any help with the above, please contact Nagendra, Priyesh or Saumya immediately.
 
-For Day 06,Click here
+For Day 06, Click <a href=https://github.com/petermr/tigr2ess/blob/master/installation/INSTALLATION.md>Here</a>
 
 If you need any help with the above, please contact Vinita, Amit or Ambarish immediately.
 
