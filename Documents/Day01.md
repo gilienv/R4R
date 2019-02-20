@@ -21,11 +21,11 @@ We will have Round Table Introductions for everyone to introduce themselves and 
 
 ## Installation Instructions
 
-For R and RStudio on WINDOWS, MAC, or UNIX, Click here
+For R and RStudio on WINDOWS, MAC, or UNIX, Click <a href=/Documents/Rinstall.md>Here</a>
 
-For R and RStudio on Generic OSs, Click Here
+For R and RStudio on Generic OSs, Click <a href=/Documents/Rinstallation.md>here</a>
 
-For Specific Packages in R, Click here
+For Specific Packages in R, Click <a href=/Documents/RDay02.md>here</a>
 
 If you need any help with the above, please contact Nagendra, Priyesh or Saumya immediately.
 
