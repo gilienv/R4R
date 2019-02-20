@@ -19,6 +19,16 @@ We will have Round Table Introductions for everyone to introduce themselves and 
 ## Detailed Agenda:
 <img src = /Images/Day01.png>
 
+## Installation Instructions
+
+For R and RStudio on WINDOWS, MAC, or UNIX, Click here
+For R and RStudio on Generic OSs, Click Here
+For Specific Packages in R, Click here
+If you need any help with the above, please contact Nagendra, Priyesh or Saumya immediately.
+
+For Day 06,Click here
+If you need any help with the above, please contact Vinita, Amit or Ambarish immediately.
+
      
 ## End of Day 01
 ---
