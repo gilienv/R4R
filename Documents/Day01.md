@@ -23,7 +23,7 @@ We will have Round Table Introductions for everyone to introduce themselves and 
 
 For R and RStudio on WINDOWS, MAC, or UNIX, Click <a href=/Documents/Rinstall.md>Here</a>
 
-For R and RStudio on Generic OSs, Click <a href=/Documents/Rinstallation.md>here</a>
+For R and RStudio on Generic OSs, Click <a href=/Documents/InstallationR.md>here</a>
 
 For Specific Packages in R, Click <a href=/Documents/RDay02.md>here</a>
 
